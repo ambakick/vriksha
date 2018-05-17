@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "911220858760",
+    "firebase_url": "https://agri1-8b1ce.firebaseio.com",
+    "project_id": "agri1-8b1ce",
+    "storage_bucket": "agri1-8b1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911220858760:android:7c279266d72c260a",
+        "android_client_info": {
+          "package_name": "com.example.akashravi.vriksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911220858760-8b72gm6s3o2096fbq77adjons1gvs3bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akashravi.vriksha",
+            "certificate_hash": "368145818dda151ed62d64f2e52603edba14c166"
+          }
+        },
+        {
+          "client_id": "911220858760-mebdgso4k9bns1v8cqeum6dcbq2rohhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akashravi.vriksha",
+            "certificate_hash": "b2531907ec852627f59ae17d64dc5b01dd036cc7"
+          }
+        },
+        {
+          "client_id": "911220858760-ffj43opi7im7efv6nfhd2gv0qman51aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akashravi.vriksha",
+            "certificate_hash": "86f2020ce03edd9e3c4094267aeabd54ad3c1d7e"
+          }
+        },
+        {
+          "client_id": "911220858760-jki3qlc1al42otj9gtluvrt9899jiqjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Ekm5WarXFfqLKqUtuQisjvTCBo3Og10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911220858760-jki3qlc1al42otj9gtluvrt9899jiqjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3081 @@
+,District,Variety,Month,Year,Price
+0,Wardha,Varaxmi,Jan,2019,4490
+1,Wardha,Desi,Jan,2019,4558
+2,Wardha,Other,Jan,2019,4554
+3,Wardha,H-4(A) 27mm FIne,Jan,2019,4794
+4,Wardha,LRA,Jan,2019,4571
+5,Wardha,N-44,Jan,2019,4559
+6,Wardha,DCH-32(Unginned),Jan,2019,4587
+7,Nagpur,Varaxmi,Jan,2019,4850
+8,Nagpur,Desi,Jan,2019,4863
+9,Nagpur,Other,Jan,2019,4848
+10,Nagpur,H-4(A) 27mm FIne,Jan,2019,4812
+11,Nagpur,LRA,Jan,2019,4910
+12,Nagpur,N-44,Jan,2019,4862
+13,Nagpur,DCH-32(Unginned),Jan,2019,4648
+14,Yavatmal,Varaxmi,Jan,2019,4807
+15,Yavatmal,Desi,Jan,2019,4734
+16,Yavatmal,Other,Jan,2019,4715
+17,Yavatmal,H-4(A) 27mm FIne,Jan,2019,4842
+18,Yavatmal,LRA,Jan,2019,4694
+19,Yavatmal,N-44,Jan,2019,4737
+20,Yavatmal,DCH-32(Unginned),Jan,2019,4587
+21,Chandrapur,Varaxmi,Jan,2019,4597
+22,Chandrapur,Desi,Jan,2019,4659
+23,Chandrapur,Other,Jan,2019,4657
+24,Chandrapur,H-4(A) 27mm FIne,Jan,2019,4733
+25,Chandrapur,LRA,Jan,2019,4665
+26,Chandrapur,N-44,Jan,2019,4658
+27,Chandrapur,DCH-32(Unginned),Jan,2019,4589
+28,Parbhani,Varaxmi,Jan,2019,4857
+29,Parbhani,Desi,Jan,2019,4779
+30,Parbhani,Other,Jan,2019,4662
+31,Parbhani,H-4(A) 27mm FIne,Jan,2019,4865
+32,Parbhani,LRA,Jan,2019,4780
+33,Parbhani,N-44,Jan,2019,4781
+34,Parbhani,DCH-32(Unginned),Jan,2019,4603
+35,Amarawati,Varaxmi,Jan,2019,4708
+36,Amarawati,Desi,Jan,2019,4715
+37,Amarawati,Other,Jan,2019,4699
+38,Amarawati,H-4(A) 27mm FIne,Jan,2019,4847
+39,Amarawati,LRA,Jan,2019,4720
+40,Amarawati,N-44,Jan,2019,4720
+41,Amarawati,DCH-32(Unginned),Jan,2019,4587
+42,Jalana,Varaxmi,Jan,2019,4028
+43,Jalana,Desi,Jan,2019,4165
+44,Jalana,Other,Jan,2019,4165
+45,Jalana,H-4(A) 27mm FIne,Jan,2019,4306
+46,Jalana,LRA,Jan,2019,4165
+47,Jalana,N-44,Jan,2019,4165
+48,Jalana,DCH-32(Unginned),Jan,2019,4165
+49,Beed,Varaxmi,Jan,2019,4705
+50,Beed,Desi,Jan,2019,4708
+51,Beed,Other,Jan,2019,4691
+52,Beed,H-4(A) 27mm FIne,Jan,2019,4848
+53,Beed,LRA,Jan,2019,4715
+54,Beed,N-44,Jan,2019,4710
+55,Beed,DCH-32(Unginned),Jan,2019,4587
+56,Buldhana,Varaxmi,Jan,2019,4389
+57,Buldhana,Desi,Jan,2019,4508
+58,Buldhana,Other,Jan,2019,4510
+59,Buldhana,H-4(A) 27mm FIne,Jan,2019,4960
+60,Buldhana,LRA,Jan,2019,4512
+61,Buldhana,N-44,Jan,2019,4508
+62,Buldhana,DCH-32(Unginned),Jan,2019,4598
+63,Nanded,Varaxmi,Jan,2019,4608
+64,Nanded,Desi,Jan,2019,4641
+65,Nanded,Other,Jan,2019,4636
+66,Nanded,H-4(A) 27mm FIne,Jan,2019,4751
+67,Nanded,LRA,Jan,2019,4649
+68,Nanded,N-44,Jan,2019,4642
+69,Nanded,DCH-32(Unginned),Jan,2019,4585
+70,Akola,Varaxmi,Jan,2019,4537
+71,Akola,Desi,Jan,2019,4677
+72,Akola,Other,Jan,2019,4666
+73,Akola,H-4(A) 27mm FIne,Jan,2019,4846
+74,Akola,LRA,Jan,2019,4726
+75,Akola,N-44,Jan,2019,4681
+76,Akola,DCH-32(Unginned),Jan,2019,4587
+77,Aurangabad,Varaxmi,Jan,2019,4841
+78,Aurangabad,Desi,Jan,2019,4795
+79,Aurangabad,Other,Jan,2019,4763
+80,Aurangabad,H-4(A) 27mm FIne,Jan,2019,4866
+81,Aurangabad,LRA,Jan,2019,4795
+82,Aurangabad,N-44,Jan,2019,4797
+83,Aurangabad,DCH-32(Unginned),Jan,2019,4596
+84,Wardha,Varaxmi,Feb,2019,4496
+85,Wardha,Desi,Feb,2019,4577
+86,Wardha,Other,Feb,2019,4569
+87,Wardha,H-4(A) 27mm FIne,Feb,2019,4756
+88,Wardha,LRA,Feb,2019,4601
+89,Wardha,N-44,Feb,2019,4580
+90,Wardha,DCH-32(Unginned),Feb,2019,4524
+91,Nagpur,Varaxmi,Feb,2019,4774
+92,Nagpur,Desi,Feb,2019,4805
+93,Nagpur,Other,Feb,2019,4786
+94,Nagpur,H-4(A) 27mm FIne,Feb,2019,4768
+95,Nagpur,LRA,Feb,2019,4879
+96,Nagpur,N-44,Feb,2019,4804
+97,Nagpur,DCH-32(Unginned),Feb,2019,4589
+98,Yavatmal,Varaxmi,Feb,2019,4699
+99,Yavatmal,Desi,Feb,2019,4660
+100,Yavatmal,Other,Feb,2019,4649
+101,Yavatmal,H-4(A) 27mm FIne,Feb,2019,4771
+102,Yavatmal,LRA,Feb,2019,4636
+103,Yavatmal,N-44,Feb,2019,4664
+104,Yavatmal,DCH-32(Unginned),Feb,2019,4525
+105,Chandrapur,Varaxmi,Feb,2019,4490
+106,Chandrapur,Desi,Feb,2019,4593
+107,Chandrapur,Other,Feb,2019,4590
+108,Chandrapur,H-4(A) 27mm FIne,Feb,2019,4699
+109,Chandrapur,LRA,Feb,2019,4598
+110,Chandrapur,N-44,Feb,2019,4593
+111,Chandrapur,DCH-32(Unginned),Feb,2019,4525
+112,Parbhani,Varaxmi,Feb,2019,4850
+113,Parbhani,Desi,Feb,2019,4800
+114,Parbhani,Other,Feb,2019,4644
+115,Parbhani,H-4(A) 27mm FIne,Feb,2019,4894
+116,Parbhani,LRA,Feb,2019,4805
+117,Parbhani,N-44,Feb,2019,4801
+118,Parbhani,DCH-32(Unginned),Feb,2019,4565
+119,Amarawati,Varaxmi,Feb,2019,4690
+120,Amarawati,Desi,Feb,2019,4709
+121,Amarawati,Other,Feb,2019,4685
+122,Amarawati,H-4(A) 27mm FIne,Feb,2019,4796
+123,Amarawati,LRA,Feb,2019,4727
+124,Amarawati,N-44,Feb,2019,4716
+125,Amarawati,DCH-32(Unginned),Feb,2019,4527
+126,Jalana,Varaxmi,Feb,2019,4033
+127,Jalana,Desi,Feb,2019,4054
+128,Jalana,Other,Feb,2019,4054
+129,Jalana,H-4(A) 27mm FIne,Feb,2019,4084
+130,Jalana,LRA,Feb,2019,4054
+131,Jalana,N-44,Feb,2019,4054
+132,Jalana,DCH-32(Unginned),Feb,2019,4054
+133,Beed,Varaxmi,Feb,2019,4686
+134,Beed,Desi,Feb,2019,4701
+135,Beed,Other,Feb,2019,4676
+136,Beed,H-4(A) 27mm FIne,Feb,2019,4799
+137,Beed,LRA,Feb,2019,4722
+138,Beed,N-44,Feb,2019,4704
+139,Beed,DCH-32(Unginned),Feb,2019,4527
+140,Buldhana,Varaxmi,Feb,2019,4373
+141,Buldhana,Desi,Feb,2019,4528
+142,Buldhana,Other,Feb,2019,4524
+143,Buldhana,H-4(A) 27mm FIne,Feb,2019,4920
+144,Buldhana,LRA,Feb,2019,4534
+145,Buldhana,N-44,Feb,2019,4527
+146,Buldhana,DCH-32(Unginned),Feb,2019,4537
+147,Nanded,Varaxmi,Feb,2019,4369
+148,Nanded,Desi,Feb,2019,4419
+149,Nanded,Other,Feb,2019,4416
+150,Nanded,H-4(A) 27mm FIne,Feb,2019,4538
+151,Nanded,LRA,Feb,2019,4425
+152,Nanded,N-44,Feb,2019,4420
+153,Nanded,DCH-32(Unginned),Feb,2019,4493
+154,Akola,Varaxmi,Feb,2019,4480
+155,Akola,Desi,Feb,2019,4648
+156,Akola,Other,Feb,2019,4635
+157,Akola,H-4(A) 27mm FIne,Feb,2019,4791
+158,Akola,LRA,Feb,2019,4721
+159,Akola,N-44,Feb,2019,4653
+160,Akola,DCH-32(Unginned),Feb,2019,4524
+161,Aurangabad,Varaxmi,Feb,2019,4801
+162,Aurangabad,Desi,Feb,2019,4773
+163,Aurangabad,Other,Feb,2019,4738
+164,Aurangabad,H-4(A) 27mm FIne,Feb,2019,4817
+165,Aurangabad,LRA,Feb,2019,4785
+166,Aurangabad,N-44,Feb,2019,4774
+167,Aurangabad,DCH-32(Unginned),Feb,2019,4546
+168,Wardha,Varaxmi,Mar,2019,4501
+169,Wardha,Desi,Mar,2019,4596
+170,Wardha,Other,Mar,2019,4582
+171,Wardha,H-4(A) 27mm FIne,Mar,2019,4722
+172,Wardha,LRA,Mar,2019,4629
+173,Wardha,N-44,Mar,2019,4601
+174,Wardha,DCH-32(Unginned),Mar,2019,4457
+175,Nagpur,Varaxmi,Mar,2019,4699
+176,Nagpur,Desi,Mar,2019,4747
+177,Nagpur,Other,Mar,2019,4721
+178,Nagpur,H-4(A) 27mm FIne,Mar,2019,4728
+179,Nagpur,LRA,Mar,2019,4849
+180,Nagpur,N-44,Mar,2019,4746
+181,Nagpur,DCH-32(Unginned),Mar,2019,4527
+182,Yavatmal,Varaxmi,Mar,2019,4604
+183,Yavatmal,Desi,Mar,2019,4596
+184,Yavatmal,Other,Mar,2019,4593
+185,Yavatmal,H-4(A) 27mm FIne,Mar,2019,4706
+186,Yavatmal,LRA,Mar,2019,4585
+187,Yavatmal,N-44,Mar,2019,4603
+188,Yavatmal,DCH-32(Unginned),Mar,2019,4464
+189,Chandrapur,Varaxmi,Mar,2019,4390
+190,Chandrapur,Desi,Mar,2019,4533
+191,Chandrapur,Other,Mar,2019,4529
+192,Chandrapur,H-4(A) 27mm FIne,Mar,2019,4666
+193,Chandrapur,LRA,Mar,2019,4537
+194,Chandrapur,N-44,Mar,2019,4534
+195,Chandrapur,DCH-32(Unginned),Mar,2019,4458
+196,Parbhani,Varaxmi,Mar,2019,4842
+197,Parbhani,Desi,Mar,2019,4823
+198,Parbhani,Other,Mar,2019,4621
+199,Parbhani,H-4(A) 27mm FIne,Mar,2019,4925
+200,Parbhani,LRA,Mar,2019,4830
+201,Parbhani,N-44,Mar,2019,4823
+202,Parbhani,DCH-32(Unginned),Mar,2019,4521
+203,Amarawati,Varaxmi,Mar,2019,4674
+204,Amarawati,Desi,Mar,2019,4705
+205,Amarawati,Other,Mar,2019,4669
+206,Amarawati,H-4(A) 27mm FIne,Mar,2019,4753
+207,Amarawati,LRA,Mar,2019,4737
+208,Amarawati,N-44,Mar,2019,4716
+209,Amarawati,DCH-32(Unginned),Mar,2019,4465
+210,Jalana,Varaxmi,Mar,2019,4037
+211,Jalana,Desi,Mar,2019,3954
+212,Jalana,Other,Mar,2019,3954
+213,Jalana,H-4(A) 27mm FIne,Mar,2019,3863
+214,Jalana,LRA,Mar,2019,3954
+215,Jalana,N-44,Mar,2019,3954
+216,Jalana,DCH-32(Unginned),Mar,2019,3954
+217,Beed,Varaxmi,Mar,2019,4667
+218,Beed,Desi,Mar,2019,4698
+219,Beed,Other,Mar,2019,4661
+220,Beed,H-4(A) 27mm FIne,Mar,2019,4753
+221,Beed,LRA,Mar,2019,4731
+222,Beed,N-44,Mar,2019,4703
+223,Beed,DCH-32(Unginned),Mar,2019,4463
+224,Buldhana,Varaxmi,Mar,2019,4360
+225,Buldhana,Desi,Mar,2019,4549
+226,Buldhana,Other,Mar,2019,4538
+227,Buldhana,H-4(A) 27mm FIne,Mar,2019,4884
+228,Buldhana,LRA,Mar,2019,4557
+229,Buldhana,N-44,Mar,2019,4549
+230,Buldhana,DCH-32(Unginned),Mar,2019,4467
+231,Nanded,Varaxmi,Mar,2019,4143
+232,Nanded,Desi,Mar,2019,4218
+233,Nanded,Other,Mar,2019,4215
+234,Nanded,H-4(A) 27mm FIne,Mar,2019,4352
+235,Nanded,LRA,Mar,2019,4225
+236,Nanded,N-44,Mar,2019,4220
+237,Nanded,DCH-32(Unginned),Mar,2019,4403
+238,Akola,Varaxmi,Mar,2019,4426
+239,Akola,Desi,Mar,2019,4624
+240,Akola,Other,Mar,2019,4607
+241,Akola,H-4(A) 27mm FIne,Mar,2019,4742
+242,Akola,LRA,Mar,2019,4719
+243,Akola,N-44,Mar,2019,4631
+244,Akola,DCH-32(Unginned),Mar,2019,4457
+245,Aurangabad,Varaxmi,Mar,2019,4763
+246,Aurangabad,Desi,Mar,2019,4754
+247,Aurangabad,Other,Mar,2019,4714
+248,Aurangabad,H-4(A) 27mm FIne,Mar,2019,4776
+249,Aurangabad,LRA,Mar,2019,4777
+250,Aurangabad,N-44,Mar,2019,4753
+251,Aurangabad,DCH-32(Unginned),Mar,2019,4490
+252,Wardha,Varaxmi,Apr,2019,4496
+253,Wardha,Desi,Apr,2019,4577
+254,Wardha,Other,Apr,2019,4569
+255,Wardha,H-4(A) 27mm FIne,Apr,2019,4756
+256,Wardha,LRA,Apr,2019,4601
+257,Wardha,N-44,Apr,2019,4580
+258,Wardha,DCH-32(Unginned),Apr,2019,4524
+259,Nagpur,Varaxmi,Apr,2019,4774
+260,Nagpur,Desi,Apr,2019,4805
+261,Nagpur,Other,Apr,2019,4786
+262,Nagpur,H-4(A) 27mm FIne,Apr,2019,4768
+263,Nagpur,LRA,Apr,2019,4879
+264,Nagpur,N-44,Apr,2019,4804
+265,Nagpur,DCH-32(Unginned),Apr,2019,4589
+266,Yavatmal,Varaxmi,Apr,2019,4699
+267,Yavatmal,Desi,Apr,2019,4660
+268,Yavatmal,Other,Apr,2019,4649
+269,Yavatmal,H-4(A) 27mm FIne,Apr,2019,4771
+270,Yavatmal,LRA,Apr,2019,4636
+271,Yavatmal,N-44,Apr,2019,4664
+272,Yavatmal,DCH-32(Unginned),Apr,2019,4525
+273,Chandrapur,Varaxmi,Apr,2019,4490
+274,Chandrapur,Desi,Apr,2019,4593
+275,Chandrapur,Other,Apr,2019,4590
+276,Chandrapur,H-4(A) 27mm FIne,Apr,2019,4699
+277,Chandrapur,LRA,Apr,2019,4598
+278,Chandrapur,N-44,Apr,2019,4593
+279,Chandrapur,DCH-32(Unginned),Apr,2019,4525
+280,Parbhani,Varaxmi,Apr,2019,4850
+281,Parbhani,Desi,Apr,2019,4800
+282,Parbhani,Other,Apr,2019,4644
+283,Parbhani,H-4(A) 27mm FIne,Apr,2019,4894
+284,Parbhani,LRA,Apr,2019,4805
+285,Parbhani,N-44,Apr,2019,4801
+286,Parbhani,DCH-32(Unginned),Apr,2019,4565
+287,Amarawati,Varaxmi,Apr,2019,4690
+288,Amarawati,Desi,Apr,2019,4709
+289,Amarawati,Other,Apr,2019,4685
+290,Amarawati,H-4(A) 27mm FIne,Apr,2019,4796
+291,Amarawati,LRA,Apr,2019,4727
+292,Amarawati,N-44,Apr,2019,4716
+293,Amarawati,DCH-32(Unginned),Apr,2019,4527
+294,Jalana,Varaxmi,Apr,2019,4033
+295,Jalana,Desi,Apr,2019,4054
+296,Jalana,Other,Apr,2019,4054
+297,Jalana,H-4(A) 27mm FIne,Apr,2019,4084
+298,Jalana,LRA,Apr,2019,4054
+299,Jalana,N-44,Apr,2019,4054
+300,Jalana,DCH-32(Unginned),Apr,2019,4054
+301,Beed,Varaxmi,Apr,2019,4686
+302,Beed,Desi,Apr,2019,4701
+303,Beed,Other,Apr,2019,4676
+304,Beed,H-4(A) 27mm FIne,Apr,2019,4799
+305,Beed,LRA,Apr,2019,4722
+306,Beed,N-44,Apr,2019,4704
+307,Beed,DCH-32(Unginned),Apr,2019,4527
+308,Buldhana,Varaxmi,Apr,2019,4373
+309,Buldhana,Desi,Apr,2019,4528
+310,Buldhana,Other,Apr,2019,4524
+311,Buldhana,H-4(A) 27mm FIne,Apr,2019,4920
+312,Buldhana,LRA,Apr,2019,4534
+313,Buldhana,N-44,Apr,2019,4527
+314,Buldhana,DCH-32(Unginned),Apr,2019,4537
+315,Nanded,Varaxmi,Apr,2019,4369
+316,Nanded,Desi,Apr,2019,4419
+317,Nanded,Other,Apr,2019,4416
+318,Nanded,H-4(A) 27mm FIne,Apr,2019,4538
+319,Nanded,LRA,Apr,2019,4425
+320,Nanded,N-44,Apr,2019,4420
+321,Nanded,DCH-32(Unginned),Apr,2019,4493
+322,Akola,Varaxmi,Apr,2019,4480
+323,Akola,Desi,Apr,2019,4648
+324,Akola,Other,Apr,2019,4635
+325,Akola,H-4(A) 27mm FIne,Apr,2019,4791
+326,Akola,LRA,Apr,2019,4721
+327,Akola,N-44,Apr,2019,4653
+328,Akola,DCH-32(Unginned),Apr,2019,4524
+329,Aurangabad,Varaxmi,Apr,2019,4801
+330,Aurangabad,Desi,Apr,2019,4773
+331,Aurangabad,Other,Apr,2019,4738
+332,Aurangabad,H-4(A) 27mm FIne,Apr,2019,4817
+333,Aurangabad,LRA,Apr,2019,4785
+334,Aurangabad,N-44,Apr,2019,4774
+335,Aurangabad,DCH-32(Unginned),Apr,2019,4546
+336,Wardha,Varaxmi,May,2019,4496
+337,Wardha,Desi,May,2019,4577
+338,Wardha,Other,May,2019,4569
+339,Wardha,H-4(A) 27mm FIne,May,2019,4756
+340,Wardha,LRA,May,2019,4601
+341,Wardha,N-44,May,2019,4580
+342,Wardha,DCH-32(Unginned),May,2019,4524
+343,Nagpur,Varaxmi,May,2019,4774
+344,Nagpur,Desi,May,2019,4805
+345,Nagpur,Other,May,2019,4786
+346,Nagpur,H-4(A) 27mm FIne,May,2019,4768
+347,Nagpur,LRA,May,2019,4879
+348,Nagpur,N-44,May,2019,4804
+349,Nagpur,DCH-32(Unginned),May,2019,4589
+350,Yavatmal,Varaxmi,May,2019,4699
+351,Yavatmal,Desi,May,2019,4660
+352,Yavatmal,Other,May,2019,4649
+353,Yavatmal,H-4(A) 27mm FIne,May,2019,4771
+354,Yavatmal,LRA,May,2019,4636
+355,Yavatmal,N-44,May,2019,4664
+356,Yavatmal,DCH-32(Unginned),May,2019,4525
+357,Chandrapur,Varaxmi,May,2019,4490
+358,Chandrapur,Desi,May,2019,4593
+359,Chandrapur,Other,May,2019,4590
+360,Chandrapur,H-4(A) 27mm FIne,May,2019,4699
+361,Chandrapur,LRA,May,2019,4598
+362,Chandrapur,N-44,May,2019,4593
+363,Chandrapur,DCH-32(Unginned),May,2019,4525
+364,Parbhani,Varaxmi,May,2019,4850
+365,Parbhani,Desi,May,2019,4800
+366,Parbhani,Other,May,2019,4644
+367,Parbhani,H-4(A) 27mm FIne,May,2019,4894
+368,Parbhani,LRA,May,2019,4805
+369,Parbhani,N-44,May,2019,4801
+370,Parbhani,DCH-32(Unginned),May,2019,4565
+371,Amarawati,Varaxmi,May,2019,4690
+372,Amarawati,Desi,May,2019,4709
+373,Amarawati,Other,May,2019,4685
+374,Amarawati,H-4(A) 27mm FIne,May,2019,4796
+375,Amarawati,LRA,May,2019,4727
+376,Amarawati,N-44,May,2019,4716
+377,Amarawati,DCH-32(Unginned),May,2019,4527
+378,Jalana,Varaxmi,May,2019,4033
+379,Jalana,Desi,May,2019,4054
+380,Jalana,Other,May,2019,4054
+381,Jalana,H-4(A) 27mm FIne,May,2019,4084
+382,Jalana,LRA,May,2019,4054
+383,Jalana,N-44,May,2019,4054
+384,Jalana,DCH-32(Unginned),May,2019,4054
+385,Beed,Varaxmi,May,2019,4686
+386,Beed,Desi,May,2019,4701
+387,Beed,Other,May,2019,4676
+388,Beed,H-4(A) 27mm FIne,May,2019,4799
+389,Beed,LRA,May,2019,4722
+390,Beed,N-44,May,2019,4704
+391,Beed,DCH-32(Unginned),May,2019,4527
+392,Buldhana,Varaxmi,May,2019,4373
+393,Buldhana,Desi,May,2019,4528
+394,Buldhana,Other,May,2019,4524
+395,Buldhana,H-4(A) 27mm FIne,May,2019,4920
+396,Buldhana,LRA,May,2019,4534
+397,Buldhana,N-44,May,2019,4527
+398,Buldhana,DCH-32(Unginned),May,2019,4537
+399,Nanded,Varaxmi,May,2019,4369
+400,Nanded,Desi,May,2019,4419
+401,Nanded,Other,May,2019,4416
+402,Nanded,H-4(A) 27mm FIne,May,2019,4538
+403,Nanded,LRA,May,2019,4425
+404,Nanded,N-44,May,2019,4420
+405,Nanded,DCH-32(Unginned),May,2019,4493
+406,Akola,Varaxmi,May,2019,4480
+407,Akola,Desi,May,2019,4648
+408,Akola,Other,May,2019,4635
+409,Akola,H-4(A) 27mm FIne,May,2019,4791
+410,Akola,LRA,May,2019,4721
+411,Akola,N-44,May,2019,4653
+412,Akola,DCH-32(Unginned),May,2019,4524
+413,Aurangabad,Varaxmi,May,2019,4801
+414,Aurangabad,Desi,May,2019,4773
+415,Aurangabad,Other,May,2019,4738
+416,Aurangabad,H-4(A) 27mm FIne,May,2019,4817
+417,Aurangabad,LRA,May,2019,4785
+418,Aurangabad,N-44,May,2019,4774
+419,Aurangabad,DCH-32(Unginned),May,2019,4546
+420,Wardha,Varaxmi,Jun,2019,4496
+421,Wardha,Desi,Jun,2019,4577
+422,Wardha,Other,Jun,2019,4569
+423,Wardha,H-4(A) 27mm FIne,Jun,2019,4756
+424,Wardha,LRA,Jun,2019,4601
+425,Wardha,N-44,Jun,2019,4580
+426,Wardha,DCH-32(Unginned),Jun,2019,4524
+427,Nagpur,Varaxmi,Jun,2019,4774
+428,Nagpur,Desi,Jun,2019,4805
+429,Nagpur,Other,Jun,2019,4786
+430,Nagpur,H-4(A) 27mm FIne,Jun,2019,4768
+431,Nagpur,LRA,Jun,2019,4879
+432,Nagpur,N-44,Jun,2019,4804
+433,Nagpur,DCH-32(Unginned),Jun,2019,4589
+434,Yavatmal,Varaxmi,Jun,2019,4699
+435,Yavatmal,Desi,Jun,2019,4660
+436,Yavatmal,Other,Jun,2019,4649
+437,Yavatmal,H-4(A) 27mm FIne,Jun,2019,4771
+438,Yavatmal,LRA,Jun,2019,4636
+439,Yavatmal,N-44,Jun,2019,4664
+440,Yavatmal,DCH-32(Unginned),Jun,2019,4525
+441,Chandrapur,Varaxmi,Jun,2019,4490
+442,Chandrapur,Desi,Jun,2019,4593
+443,Chandrapur,Other,Jun,2019,4590
+444,Chandrapur,H-4(A) 27mm FIne,Jun,2019,4699
+445,Chandrapur,LRA,Jun,2019,4598
+446,Chandrapur,N-44,Jun,2019,4593
+447,Chandrapur,DCH-32(Unginned),Jun,2019,4525
+448,Parbhani,Varaxmi,Jun,2019,4850
+449,Parbhani,Desi,Jun,2019,4800
+450,Parbhani,Other,Jun,2019,4644
+451,Parbhani,H-4(A) 27mm FIne,Jun,2019,4894
+452,Parbhani,LRA,Jun,2019,4805
+453,Parbhani,N-44,Jun,2019,4801
+454,Parbhani,DCH-32(Unginned),Jun,2019,4565
+455,Amarawati,Varaxmi,Jun,2019,4690
+456,Amarawati,Desi,Jun,2019,4709
+457,Amarawati,Other,Jun,2019,4685
+458,Amarawati,H-4(A) 27mm FIne,Jun,2019,4796
+459,Amarawati,LRA,Jun,2019,4727
+460,Amarawati,N-44,Jun,2019,4716
+461,Amarawati,DCH-32(Unginned),Jun,2019,4527
+462,Jalana,Varaxmi,Jun,2019,4033
+463,Jalana,Desi,Jun,2019,4054
+464,Jalana,Other,Jun,2019,4054
+465,Jalana,H-4(A) 27mm FIne,Jun,2019,4084
+466,Jalana,LRA,Jun,2019,4054
+467,Jalana,N-44,Jun,2019,4054
+468,Jalana,DCH-32(Unginned),Jun,2019,4054
+469,Beed,Varaxmi,Jun,2019,4686
+470,Beed,Desi,Jun,2019,4701
+471,Beed,Other,Jun,2019,4676
+472,Beed,H-4(A) 27mm FIne,Jun,2019,4799
+473,Beed,LRA,Jun,2019,4722
+474,Beed,N-44,Jun,2019,4704
+475,Beed,DCH-32(Unginned),Jun,2019,4527
+476,Buldhana,Varaxmi,Jun,2019,4373
+477,Buldhana,Desi,Jun,2019,4528
+478,Buldhana,Other,Jun,2019,4524
+479,Buldhana,H-4(A) 27mm FIne,Jun,2019,4920
+480,Buldhana,LRA,Jun,2019,4534
+481,Buldhana,N-44,Jun,2019,4527
+482,Buldhana,DCH-32(Unginned),Jun,2019,4537
+483,Nanded,Varaxmi,Jun,2019,4369
+484,Nanded,Desi,Jun,2019,4419
+485,Nanded,Other,Jun,2019,4416
+486,Nanded,H-4(A) 27mm FIne,Jun,2019,4538
+487,Nanded,LRA,Jun,2019,4425
+488,Nanded,N-44,Jun,2019,4420
+489,Nanded,DCH-32(Unginned),Jun,2019,4493
+490,Akola,Varaxmi,Jun,2019,4480
+491,Akola,Desi,Jun,2019,4648
+492,Akola,Other,Jun,2019,4635
+493,Akola,H-4(A) 27mm FIne,Jun,2019,4791
+494,Akola,LRA,Jun,2019,4721
+495,Akola,N-44,Jun,2019,4653
+496,Akola,DCH-32(Unginned),Jun,2019,4524
+497,Aurangabad,Varaxmi,Jun,2019,4801
+498,Aurangabad,Desi,Jun,2019,4773
+499,Aurangabad,Other,Jun,2019,4738
+500,Aurangabad,H-4(A) 27mm FIne,Jun,2019,4817
+501,Aurangabad,LRA,Jun,2019,4785
+502,Aurangabad,N-44,Jun,2019,4774
+503,Aurangabad,DCH-32(Unginned),Jun,2019,4546
+504,Wardha,Varaxmi,Jul,2019,4809
+505,Wardha,Desi,Jul,2019,4906
+506,Wardha,Other,Jul,2019,4898
+507,Wardha,H-4(A) 27mm FIne,Jul,2019,4901
+508,Wardha,LRA,Jul,2019,5023
+509,Wardha,N-44,Jul,2019,4915
+510,Wardha,DCH-32(Unginned),Jul,2019,4906
+511,Nagpur,Varaxmi,Jul,2019,4981
+512,Nagpur,Desi,Jul,2019,4988
+513,Nagpur,Other,Jul,2019,4953
+514,Nagpur,H-4(A) 27mm FIne,Jul,2019,4987
+515,Nagpur,LRA,Jul,2019,5044
+516,Nagpur,N-44,Jul,2019,4989
+517,Nagpur,DCH-32(Unginned),Jul,2019,4977
+518,Yavatmal,Varaxmi,Jul,2019,5071
+519,Yavatmal,Desi,Jul,2019,4961
+520,Yavatmal,Other,Jul,2019,4960
+521,Yavatmal,H-4(A) 27mm FIne,Jul,2019,4961
+522,Yavatmal,LRA,Jul,2019,4847
+523,Yavatmal,N-44,Jul,2019,4961
+524,Yavatmal,DCH-32(Unginned),Jul,2019,4961
+525,Chandrapur,Varaxmi,Jul,2019,4917
+526,Chandrapur,Desi,Jul,2019,4946
+527,Chandrapur,Other,Jul,2019,4929
+528,Chandrapur,H-4(A) 27mm FIne,Jul,2019,4941
+529,Chandrapur,LRA,Jul,2019,5044
+530,Chandrapur,N-44,Jul,2019,4954
+531,Chandrapur,DCH-32(Unginned),Jul,2019,4947
+532,Parbhani,Varaxmi,Jul,2019,5068
+533,Parbhani,Desi,Jul,2019,4914
+534,Parbhani,Other,Jul,2019,4880
+535,Parbhani,H-4(A) 27mm FIne,Jul,2019,4872
+536,Parbhani,LRA,Jul,2019,5015
+537,Parbhani,N-44,Jul,2019,4917
+538,Parbhani,DCH-32(Unginned),Jul,2019,4913
+539,Amarawati,Varaxmi,Jul,2019,4816
+540,Amarawati,Desi,Jul,2019,4932
+541,Amarawati,Other,Jul,2019,4924
+542,Amarawati,H-4(A) 27mm FIne,Jul,2019,4927
+543,Amarawati,LRA,Jul,2019,5016
+544,Amarawati,N-44,Jul,2019,4973
+545,Amarawati,DCH-32(Unginned),Jul,2019,4931
+546,Jalana,Varaxmi,Jul,2019,4814
+547,Jalana,Desi,Jul,2019,4873
+548,Jalana,Other,Jul,2019,4872
+549,Jalana,H-4(A) 27mm FIne,Jul,2019,4888
+550,Jalana,LRA,Jul,2019,4975
+551,Jalana,N-44,Jul,2019,4878
+552,Jalana,DCH-32(Unginned),Jul,2019,4875
+553,Beed,Varaxmi,Jul,2019,4983
+554,Beed,Desi,Jul,2019,4980
+555,Beed,Other,Jul,2019,4941
+556,Beed,H-4(A) 27mm FIne,Jul,2019,4973
+557,Beed,LRA,Jul,2019,5050
+558,Beed,N-44,Jul,2019,4989
+559,Beed,DCH-32(Unginned),Jul,2019,4967
+560,Buldhana,Varaxmi,Jul,2019,4743
+561,Buldhana,Desi,Jul,2019,5080
+562,Buldhana,Other,Jul,2019,5049
+563,Buldhana,H-4(A) 27mm FIne,Jul,2019,5143
+564,Buldhana,LRA,Jul,2019,5095
+565,Buldhana,N-44,Jul,2019,5080
+566,Buldhana,DCH-32(Unginned),Jul,2019,5083
+567,Nanded,Varaxmi,Jul,2019,4799
+568,Nanded,Desi,Jul,2019,4862
+569,Nanded,Other,Jul,2019,4857
+570,Nanded,H-4(A) 27mm FIne,Jul,2019,4859
+571,Nanded,LRA,Jul,2019,4934
+572,Nanded,N-44,Jul,2019,4868
+573,Nanded,DCH-32(Unginned),Jul,2019,4862
+574,Akola,Varaxmi,Jul,2019,4809
+575,Akola,Desi,Jul,2019,4925
+576,Akola,Other,Jul,2019,4914
+577,Akola,H-4(A) 27mm FIne,Jul,2019,4921
+578,Akola,LRA,Jul,2019,5068
+579,Akola,N-44,Jul,2019,4934
+580,Akola,DCH-32(Unginned),Jul,2019,4925
+581,Aurangabad,Varaxmi,Jul,2019,4925
+582,Aurangabad,Desi,Jul,2019,4966
+583,Aurangabad,Other,Jul,2019,4936
+584,Aurangabad,H-4(A) 27mm FIne,Jul,2019,4959
+585,Aurangabad,LRA,Jul,2019,5049
+586,Aurangabad,N-44,Jul,2019,4976
+587,Aurangabad,DCH-32(Unginned),Jul,2019,4961
+588,Wardha,Varaxmi,Aug,2019,4496
+589,Wardha,Desi,Aug,2019,4577
+590,Wardha,Other,Aug,2019,4569
+591,Wardha,H-4(A) 27mm FIne,Aug,2019,4756
+592,Wardha,LRA,Aug,2019,4601
+593,Wardha,N-44,Aug,2019,4580
+594,Wardha,DCH-32(Unginned),Aug,2019,4524
+595,Nagpur,Varaxmi,Aug,2019,4774
+596,Nagpur,Desi,Aug,2019,4805
+597,Nagpur,Other,Aug,2019,4786
+598,Nagpur,H-4(A) 27mm FIne,Aug,2019,4768
+599,Nagpur,LRA,Aug,2019,4879
+600,Nagpur,N-44,Aug,2019,4804
+601,Nagpur,DCH-32(Unginned),Aug,2019,4589
+602,Yavatmal,Varaxmi,Aug,2019,4699
+603,Yavatmal,Desi,Aug,2019,4660
+604,Yavatmal,Other,Aug,2019,4649
+605,Yavatmal,H-4(A) 27mm FIne,Aug,2019,4771
+606,Yavatmal,LRA,Aug,2019,4636
+607,Yavatmal,N-44,Aug,2019,4664
+608,Yavatmal,DCH-32(Unginned),Aug,2019,4525
+609,Chandrapur,Varaxmi,Aug,2019,4490
+610,Chandrapur,Desi,Aug,2019,4593
+611,Chandrapur,Other,Aug,2019,4590
+612,Chandrapur,H-4(A) 27mm FIne,Aug,2019,4699
+613,Chandrapur,LRA,Aug,2019,4598
+614,Chandrapur,N-44,Aug,2019,4593
+615,Chandrapur,DCH-32(Unginned),Aug,2019,4525
+616,Parbhani,Varaxmi,Aug,2019,4850
+617,Parbhani,Desi,Aug,2019,4800
+618,Parbhani,Other,Aug,2019,4644
+619,Parbhani,H-4(A) 27mm FIne,Aug,2019,4894
+620,Parbhani,LRA,Aug,2019,4805
+621,Parbhani,N-44,Aug,2019,4801
+622,Parbhani,DCH-32(Unginned),Aug,2019,4565
+623,Amarawati,Varaxmi,Aug,2019,4690
+624,Amarawati,Desi,Aug,2019,4709
+625,Amarawati,Other,Aug,2019,4685
+626,Amarawati,H-4(A) 27mm FIne,Aug,2019,4796
+627,Amarawati,LRA,Aug,2019,4727
+628,Amarawati,N-44,Aug,2019,4716
+629,Amarawati,DCH-32(Unginned),Aug,2019,4527
+630,Jalana,Varaxmi,Aug,2019,4033
+631,Jalana,Desi,Aug,2019,4054
+632,Jalana,Other,Aug,2019,4054
+633,Jalana,H-4(A) 27mm FIne,Aug,2019,4084
+634,Jalana,LRA,Aug,2019,4054
+635,Jalana,N-44,Aug,2019,4054
+636,Jalana,DCH-32(Unginned),Aug,2019,4054
+637,Beed,Varaxmi,Aug,2019,4686
+638,Beed,Desi,Aug,2019,4701
+639,Beed,Other,Aug,2019,4676
+640,Beed,H-4(A) 27mm FIne,Aug,2019,4799
+641,Beed,LRA,Aug,2019,4722
+642,Beed,N-44,Aug,2019,4704
+643,Beed,DCH-32(Unginned),Aug,2019,4527
+644,Buldhana,Varaxmi,Aug,2019,4373
+645,Buldhana,Desi,Aug,2019,4528
+646,Buldhana,Other,Aug,2019,4524
+647,Buldhana,H-4(A) 27mm FIne,Aug,2019,4920
+648,Buldhana,LRA,Aug,2019,4534
+649,Buldhana,N-44,Aug,2019,4527
+650,Buldhana,DCH-32(Unginned),Aug,2019,4537
+651,Nanded,Varaxmi,Aug,2019,4369
+652,Nanded,Desi,Aug,2019,4419
+653,Nanded,Other,Aug,2019,4416
+654,Nanded,H-4(A) 27mm FIne,Aug,2019,4538
+655,Nanded,LRA,Aug,2019,4425
+656,Nanded,N-44,Aug,2019,4420
+657,Nanded,DCH-32(Unginned),Aug,2019,4493
+658,Akola,Varaxmi,Aug,2019,4480
+659,Akola,Desi,Aug,2019,4648
+660,Akola,Other,Aug,2019,4635
+661,Akola,H-4(A) 27mm FIne,Aug,2019,4791
+662,Akola,LRA,Aug,2019,4721
+663,Akola,N-44,Aug,2019,4653
+664,Akola,DCH-32(Unginned),Aug,2019,4524
+665,Aurangabad,Varaxmi,Aug,2019,4801
+666,Aurangabad,Desi,Aug,2019,4773
+667,Aurangabad,Other,Aug,2019,4738
+668,Aurangabad,H-4(A) 27mm FIne,Aug,2019,4817
+669,Aurangabad,LRA,Aug,2019,4785
+670,Aurangabad,N-44,Aug,2019,4774
+671,Aurangabad,DCH-32(Unginned),Aug,2019,4546
+672,Wardha,Varaxmi,Sep,2019,4496
+673,Wardha,Desi,Sep,2019,4577
+674,Wardha,Other,Sep,2019,4569
+675,Wardha,H-4(A) 27mm FIne,Sep,2019,4756
+676,Wardha,LRA,Sep,2019,4601
+677,Wardha,N-44,Sep,2019,4580
+678,Wardha,DCH-32(Unginned),Sep,2019,4524
+679,Nagpur,Varaxmi,Sep,2019,4774
+680,Nagpur,Desi,Sep,2019,4805
+681,Nagpur,Other,Sep,2019,4786
+682,Nagpur,H-4(A) 27mm FIne,Sep,2019,4768
+683,Nagpur,LRA,Sep,2019,4879
+684,Nagpur,N-44,Sep,2019,4804
+685,Nagpur,DCH-32(Unginned),Sep,2019,4589
+686,Yavatmal,Varaxmi,Sep,2019,4699
+687,Yavatmal,Desi,Sep,2019,4660
+688,Yavatmal,Other,Sep,2019,4649
+689,Yavatmal,H-4(A) 27mm FIne,Sep,2019,4771
+690,Yavatmal,LRA,Sep,2019,4636
+691,Yavatmal,N-44,Sep,2019,4664
+692,Yavatmal,DCH-32(Unginned),Sep,2019,4525
+693,Chandrapur,Varaxmi,Sep,2019,4490
+694,Chandrapur,Desi,Sep,2019,4593
+695,Chandrapur,Other,Sep,2019,4590
+696,Chandrapur,H-4(A) 27mm FIne,Sep,2019,4699
+697,Chandrapur,LRA,Sep,2019,4598
+698,Chandrapur,N-44,Sep,2019,4593
+699,Chandrapur,DCH-32(Unginned),Sep,2019,4525
+700,Parbhani,Varaxmi,Sep,2019,4850
+701,Parbhani,Desi,Sep,2019,4800
+702,Parbhani,Other,Sep,2019,4644
+703,Parbhani,H-4(A) 27mm FIne,Sep,2019,4894
+704,Parbhani,LRA,Sep,2019,4805
+705,Parbhani,N-44,Sep,2019,4801
+706,Parbhani,DCH-32(Unginned),Sep,2019,4565
+707,Amarawati,Varaxmi,Sep,2019,4690
+708,Amarawati,Desi,Sep,2019,4709
+709,Amarawati,Other,Sep,2019,4685
+710,Amarawati,H-4(A) 27mm FIne,Sep,2019,4796
+711,Amarawati,LRA,Sep,2019,4727
+712,Amarawati,N-44,Sep,2019,4716
+713,Amarawati,DCH-32(Unginned),Sep,2019,4527
+714,Jalana,Varaxmi,Sep,2019,4033
+715,Jalana,Desi,Sep,2019,4054
+716,Jalana,Other,Sep,2019,4054
+717,Jalana,H-4(A) 27mm FIne,Sep,2019,4084
+718,Jalana,LRA,Sep,2019,4054
+719,Jalana,N-44,Sep,2019,4054
+720,Jalana,DCH-32(Unginned),Sep,2019,4054
+721,Beed,Varaxmi,Sep,2019,4686
+722,Beed,Desi,Sep,2019,4701
+723,Beed,Other,Sep,2019,4676
+724,Beed,H-4(A) 27mm FIne,Sep,2019,4799
+725,Beed,LRA,Sep,2019,4722
+726,Beed,N-44,Sep,2019,4704
+727,Beed,DCH-32(Unginned),Sep,2019,4527
+728,Buldhana,Varaxmi,Sep,2019,4373
+729,Buldhana,Desi,Sep,2019,4528
+730,Buldhana,Other,Sep,2019,4524
+731,Buldhana,H-4(A) 27mm FIne,Sep,2019,4920
+732,Buldhana,LRA,Sep,2019,4534
+733,Buldhana,N-44,Sep,2019,4527
+734,Buldhana,DCH-32(Unginned),Sep,2019,4537
+735,Nanded,Varaxmi,Sep,2019,4369
+736,Nanded,Desi,Sep,2019,4419
+737,Nanded,Other,Sep,2019,4416
+738,Nanded,H-4(A) 27mm FIne,Sep,2019,4538
+739,Nanded,LRA,Sep,2019,4425
+740,Nanded,N-44,Sep,2019,4420
+741,Nanded,DCH-32(Unginned),Sep,2019,4493
+742,Akola,Varaxmi,Sep,2019,4480
+743,Akola,Desi,Sep,2019,4648
+744,Akola,Other,Sep,2019,4635
+745,Akola,H-4(A) 27mm FIne,Sep,2019,4791
+746,Akola,LRA,Sep,2019,4721
+747,Akola,N-44,Sep,2019,4653
+748,Akola,DCH-32(Unginned),Sep,2019,4524
+749,Aurangabad,Varaxmi,Sep,2019,4801
+750,Aurangabad,Desi,Sep,2019,4773
+751,Aurangabad,Other,Sep,2019,4738
+752,Aurangabad,H-4(A) 27mm FIne,Sep,2019,4817
+753,Aurangabad,LRA,Sep,2019,4785
+754,Aurangabad,N-44,Sep,2019,4774
+755,Aurangabad,DCH-32(Unginned),Sep,2019,4546
+756,Wardha,Varaxmi,Oct,2019,4496
+757,Wardha,Desi,Oct,2019,4577
+758,Wardha,Other,Oct,2019,4569
+759,Wardha,H-4(A) 27mm FIne,Oct,2019,4756
+760,Wardha,LRA,Oct,2019,4601
+761,Wardha,N-44,Oct,2019,4580
+762,Wardha,DCH-32(Unginned),Oct,2019,4524
+763,Nagpur,Varaxmi,Oct,2019,4774
+764,Nagpur,Desi,Oct,2019,4805
+765,Nagpur,Other,Oct,2019,4786
+766,Nagpur,H-4(A) 27mm FIne,Oct,2019,4768
+767,Nagpur,LRA,Oct,2019,4879
+768,Nagpur,N-44,Oct,2019,4804
+769,Nagpur,DCH-32(Unginned),Oct,2019,4589
+770,Yavatmal,Varaxmi,Oct,2019,4699
+771,Yavatmal,Desi,Oct,2019,4660
+772,Yavatmal,Other,Oct,2019,4649
+773,Yavatmal,H-4(A) 27mm FIne,Oct,2019,4771
+774,Yavatmal,LRA,Oct,2019,4636
+775,Yavatmal,N-44,Oct,2019,4664
+776,Yavatmal,DCH-32(Unginned),Oct,2019,4525
+777,Chandrapur,Varaxmi,Oct,2019,4490
+778,Chandrapur,Desi,Oct,2019,4593
+779,Chandrapur,Other,Oct,2019,4590
+780,Chandrapur,H-4(A) 27mm FIne,Oct,2019,4699
+781,Chandrapur,LRA,Oct,2019,4598
+782,Chandrapur,N-44,Oct,2019,4593
+783,Chandrapur,DCH-32(Unginned),Oct,2019,4525
+784,Parbhani,Varaxmi,Oct,2019,4850
+785,Parbhani,Desi,Oct,2019,4800
+786,Parbhani,Other,Oct,2019,4644
+787,Parbhani,H-4(A) 27mm FIne,Oct,2019,4894
+788,Parbhani,LRA,Oct,2019,4805
+789,Parbhani,N-44,Oct,2019,4801
+790,Parbhani,DCH-32(Unginned),Oct,2019,4565
+791,Amarawati,Varaxmi,Oct,2019,4690
+792,Amarawati,Desi,Oct,2019,4709
+793,Amarawati,Other,Oct,2019,4685
+794,Amarawati,H-4(A) 27mm FIne,Oct,2019,4796
+795,Amarawati,LRA,Oct,2019,4727
+796,Amarawati,N-44,Oct,2019,4716
+797,Amarawati,DCH-32(Unginned),Oct,2019,4527
+798,Jalana,Varaxmi,Oct,2019,4033
+799,Jalana,Desi,Oct,2019,4054
+800,Jalana,Other,Oct,2019,4054
+801,Jalana,H-4(A) 27mm FIne,Oct,2019,4084
+802,Jalana,LRA,Oct,2019,4054
+803,Jalana,N-44,Oct,2019,4054
+804,Jalana,DCH-32(Unginned),Oct,2019,4054
+805,Beed,Varaxmi,Oct,2019,4686
+806,Beed,Desi,Oct,2019,4701
+807,Beed,Other,Oct,2019,4676
+808,Beed,H-4(A) 27mm FIne,Oct,2019,4799
+809,Beed,LRA,Oct,2019,4722
+810,Beed,N-44,Oct,2019,4704
+811,Beed,DCH-32(Unginned),Oct,2019,4527
+812,Buldhana,Varaxmi,Oct,2019,4373
+813,Buldhana,Desi,Oct,2019,4528
+814,Buldhana,Other,Oct,2019,4524
+815,Buldhana,H-4(A) 27mm FIne,Oct,2019,4920
+816,Buldhana,LRA,Oct,2019,4534
+817,Buldhana,N-44,Oct,2019,4527
+818,Buldhana,DCH-32(Unginned),Oct,2019,4537
+819,Nanded,Varaxmi,Oct,2019,4369
+820,Nanded,Desi,Oct,2019,4419
+821,Nanded,Other,Oct,2019,4416
+822,Nanded,H-4(A) 27mm FIne,Oct,2019,4538
+823,Nanded,LRA,Oct,2019,4425
+824,Nanded,N-44,Oct,2019,4420
+825,Nanded,DCH-32(Unginned),Oct,2019,4493
+826,Akola,Varaxmi,Oct,2019,4480
+827,Akola,Desi,Oct,2019,4648
+828,Akola,Other,Oct,2019,4635
+829,Akola,H-4(A) 27mm FIne,Oct,2019,4791
+830,Akola,LRA,Oct,2019,4721
+831,Akola,N-44,Oct,2019,4653
+832,Akola,DCH-32(Unginned),Oct,2019,4524
+833,Aurangabad,Varaxmi,Oct,2019,4801
+834,Aurangabad,Desi,Oct,2019,4773
+835,Aurangabad,Other,Oct,2019,4738
+836,Aurangabad,H-4(A) 27mm FIne,Oct,2019,4817
+837,Aurangabad,LRA,Oct,2019,4785
+838,Aurangabad,N-44,Oct,2019,4774
+839,Aurangabad,DCH-32(Unginned),Oct,2019,4546
+840,Wardha,Varaxmi,Nov,2019,4188
+841,Wardha,Desi,Nov,2019,4190
+842,Wardha,Other,Nov,2019,4190
+843,Wardha,H-4(A) 27mm FIne,Nov,2019,4190
+844,Wardha,LRA,Nov,2019,4199
+845,Wardha,N-44,Nov,2019,4196
+846,Wardha,DCH-32(Unginned),Nov,2019,4262
+847,Nagpur,Varaxmi,Nov,2019,4339
+848,Nagpur,Desi,Nov,2019,4352
+849,Nagpur,Other,Nov,2019,4352
+850,Nagpur,H-4(A) 27mm FIne,Nov,2019,4355
+851,Nagpur,LRA,Nov,2019,4413
+852,Nagpur,N-44,Nov,2019,4371
+853,Nagpur,DCH-32(Unginned),Nov,2019,4387
+854,Yavatmal,Varaxmi,Nov,2019,4472
+855,Yavatmal,Desi,Nov,2019,4437
+856,Yavatmal,Other,Nov,2019,4434
+857,Yavatmal,H-4(A) 27mm FIne,Nov,2019,4438
+858,Yavatmal,LRA,Nov,2019,4397
+859,Yavatmal,N-44,Nov,2019,4438
+860,Yavatmal,DCH-32(Unginned),Nov,2019,4435
+861,Chandrapur,Varaxmi,Nov,2019,4306
+862,Chandrapur,Desi,Nov,2019,4292
+863,Chandrapur,Other,Nov,2019,4292
+864,Chandrapur,H-4(A) 27mm FIne,Nov,2019,4277
+865,Chandrapur,LRA,Nov,2019,4307
+866,Chandrapur,N-44,Nov,2019,4296
+867,Chandrapur,DCH-32(Unginned),Nov,2019,4337
+868,Parbhani,Varaxmi,Nov,2019,4468
+869,Parbhani,Desi,Nov,2019,4457
+870,Parbhani,Other,Nov,2019,4386
+871,Parbhani,H-4(A) 27mm FIne,Nov,2019,4456
+872,Parbhani,LRA,Nov,2019,4440
+873,Parbhani,N-44,Nov,2019,4463
+874,Parbhani,DCH-32(Unginned),Nov,2019,4445
+875,Amarawati,Varaxmi,Nov,2019,4081
+876,Amarawati,Desi,Nov,2019,4221
+877,Amarawati,Other,Nov,2019,4221
+878,Amarawati,H-4(A) 27mm FIne,Nov,2019,4380
+879,Amarawati,LRA,Nov,2019,4222
+880,Amarawati,N-44,Nov,2019,4221
+881,Amarawati,DCH-32(Unginned),Nov,2019,4223
+882,Jalana,Varaxmi,Nov,2019,4351
+883,Jalana,Desi,Nov,2019,4358
+884,Jalana,Other,Nov,2019,4358
+885,Jalana,H-4(A) 27mm FIne,Nov,2019,4365
+886,Jalana,LRA,Nov,2019,4369
+887,Jalana,N-44,Nov,2019,4379
+888,Jalana,DCH-32(Unginned),Nov,2019,4387
+889,Beed,Varaxmi,Nov,2019,4403
+890,Beed,Desi,Nov,2019,4403
+891,Beed,Other,Nov,2019,4398
+892,Beed,H-4(A) 27mm FIne,Nov,2019,4406
+893,Beed,LRA,Nov,2019,4387
+894,Beed,N-44,Nov,2019,4429
+895,Beed,DCH-32(Unginned),Nov,2019,4403
+896,Buldhana,Varaxmi,Nov,2019,4431
+897,Buldhana,Desi,Nov,2019,4443
+898,Buldhana,Other,Nov,2019,4429
+899,Buldhana,H-4(A) 27mm FIne,Nov,2019,4459
+900,Buldhana,LRA,Nov,2019,4423
+901,Buldhana,N-44,Nov,2019,4456
+902,Buldhana,DCH-32(Unginned),Nov,2019,4418
+903,Nanded,Varaxmi,Nov,2019,4267
+904,Nanded,Desi,Nov,2019,4271
+905,Nanded,Other,Nov,2019,4271
+906,Nanded,H-4(A) 27mm FIne,Nov,2019,4272
+907,Nanded,LRA,Nov,2019,4288
+908,Nanded,N-44,Nov,2019,4281
+909,Nanded,DCH-32(Unginned),Nov,2019,4333
+910,Akola,Varaxmi,Nov,2019,4304
+911,Akola,Desi,Nov,2019,4309
+912,Akola,Other,Nov,2019,4309
+913,Akola,H-4(A) 27mm FIne,Nov,2019,4307
+914,Akola,LRA,Nov,2019,4322
+915,Akola,N-44,Nov,2019,4327
+916,Akola,DCH-32(Unginned),Nov,2019,4363
+917,Aurangabad,Varaxmi,Nov,2019,4452
+918,Aurangabad,Desi,Nov,2019,4451
+919,Aurangabad,Other,Nov,2019,4437
+920,Aurangabad,H-4(A) 27mm FIne,Nov,2019,4452
+921,Aurangabad,LRA,Nov,2019,4432
+922,Aurangabad,N-44,Nov,2019,4461
+923,Aurangabad,DCH-32(Unginned),Nov,2019,4429
+924,Wardha,Varaxmi,Dec,2019,4496
+925,Wardha,Desi,Dec,2019,4577
+926,Wardha,Other,Dec,2019,4569
+927,Wardha,H-4(A) 27mm FIne,Dec,2019,4756
+928,Wardha,LRA,Dec,2019,4601
+929,Wardha,N-44,Dec,2019,4580
+930,Wardha,DCH-32(Unginned),Dec,2019,4524
+931,Nagpur,Varaxmi,Dec,2019,4774
+932,Nagpur,Desi,Dec,2019,4805
+933,Nagpur,Other,Dec,2019,4786
+934,Nagpur,H-4(A) 27mm FIne,Dec,2019,4768
+935,Nagpur,LRA,Dec,2019,4879
+936,Nagpur,N-44,Dec,2019,4804
+937,Nagpur,DCH-32(Unginned),Dec,2019,4589
+938,Yavatmal,Varaxmi,Dec,2019,4699
+939,Yavatmal,Desi,Dec,2019,4660
+940,Yavatmal,Other,Dec,2019,4649
+941,Yavatmal,H-4(A) 27mm FIne,Dec,2019,4771
+942,Yavatmal,LRA,Dec,2019,4636
+943,Yavatmal,N-44,Dec,2019,4664
+944,Yavatmal,DCH-32(Unginned),Dec,2019,4525
+945,Chandrapur,Varaxmi,Dec,2019,4490
+946,Chandrapur,Desi,Dec,2019,4593
+947,Chandrapur,Other,Dec,2019,4590
+948,Chandrapur,H-4(A) 27mm FIne,Dec,2019,4699
+949,Chandrapur,LRA,Dec,2019,4598
+950,Chandrapur,N-44,Dec,2019,4593
+951,Chandrapur,DCH-32(Unginned),Dec,2019,4525
+952,Parbhani,Varaxmi,Dec,2019,4850
+953,Parbhani,Desi,Dec,2019,4800
+954,Parbhani,Other,Dec,2019,4644
+955,Parbhani,H-4(A) 27mm FIne,Dec,2019,4894
+956,Parbhani,LRA,Dec,2019,4805
+957,Parbhani,N-44,Dec,2019,4801
+958,Parbhani,DCH-32(Unginned),Dec,2019,4565
+959,Amarawati,Varaxmi,Dec,2019,4690
+960,Amarawati,Desi,Dec,2019,4709
+961,Amarawati,Other,Dec,2019,4685
+962,Amarawati,H-4(A) 27mm FIne,Dec,2019,4796
+963,Amarawati,LRA,Dec,2019,4727
+964,Amarawati,N-44,Dec,2019,4716
+965,Amarawati,DCH-32(Unginned),Dec,2019,4527
+966,Jalana,Varaxmi,Dec,2019,4033
+967,Jalana,Desi,Dec,2019,4054
+968,Jalana,Other,Dec,2019,4054
+969,Jalana,H-4(A) 27mm FIne,Dec,2019,4084
+970,Jalana,LRA,Dec,2019,4054
+971,Jalana,N-44,Dec,2019,4054
+972,Jalana,DCH-32(Unginned),Dec,2019,4054
+973,Beed,Varaxmi,Dec,2019,4686
+974,Beed,Desi,Dec,2019,4701
+975,Beed,Other,Dec,2019,4676
+976,Beed,H-4(A) 27mm FIne,Dec,2019,4799
+977,Beed,LRA,Dec,2019,4722
+978,Beed,N-44,Dec,2019,4704
+979,Beed,DCH-32(Unginned),Dec,2019,4527
+980,Buldhana,Varaxmi,Dec,2019,4373
+981,Buldhana,Desi,Dec,2019,4528
+982,Buldhana,Other,Dec,2019,4524
+983,Buldhana,H-4(A) 27mm FIne,Dec,2019,4920
+984,Buldhana,LRA,Dec,2019,4534
+985,Buldhana,N-44,Dec,2019,4527
+986,Buldhana,DCH-32(Unginned),Dec,2019,4537
+987,Nanded,Varaxmi,Dec,2019,4369
+988,Nanded,Desi,Dec,2019,4419
+989,Nanded,Other,Dec,2019,4416
+990,Nanded,H-4(A) 27mm FIne,Dec,2019,4538
+991,Nanded,LRA,Dec,2019,4425
+992,Nanded,N-44,Dec,2019,4420
+993,Nanded,DCH-32(Unginned),Dec,2019,4493
+994,Akola,Varaxmi,Dec,2019,4480
+995,Akola,Desi,Dec,2019,4648
+996,Akola,Other,Dec,2019,4635
+997,Akola,H-4(A) 27mm FIne,Dec,2019,4791
+998,Akola,LRA,Dec,2019,4721
+999,Akola,N-44,Dec,2019,4653
+1000,Akola,DCH-32(Unginned),Dec,2019,4524
+1001,Aurangabad,Varaxmi,Dec,2019,4801
+1002,Aurangabad,Desi,Dec,2019,4773
+1003,Aurangabad,Other,Dec,2019,4738
+1004,Aurangabad,H-4(A) 27mm FIne,Dec,2019,4817
+1005,Aurangabad,LRA,Dec,2019,4785
+1006,Aurangabad,N-44,Dec,2019,4774
+1007,Aurangabad,DCH-32(Unginned),Dec,2019,4546
+1008,Wardha,Varaxmi,Mar,2018,4501
+1009,Wardha,Desi,Mar,2018,4596
+1010,Wardha,Other,Mar,2018,4582
+1011,Wardha,H-4(A) 27mm FIne,Mar,2018,4722
+1012,Wardha,LRA,Mar,2018,4629
+1013,Wardha,N-44,Mar,2018,4601
+1014,Wardha,DCH-32(Unginned),Mar,2018,4457
+1015,Nagpur,Varaxmi,Mar,2018,4699
+1016,Nagpur,Desi,Mar,2018,4747
+1017,Nagpur,Other,Mar,2018,4721
+1018,Nagpur,H-4(A) 27mm FIne,Mar,2018,4728
+1019,Nagpur,LRA,Mar,2018,4849
+1020,Nagpur,N-44,Mar,2018,4746
+1021,Nagpur,DCH-32(Unginned),Mar,2018,4527
+1022,Yavatmal,Varaxmi,Mar,2018,4604
+1023,Yavatmal,Desi,Mar,2018,4596
+1024,Yavatmal,Other,Mar,2018,4593
+1025,Yavatmal,H-4(A) 27mm FIne,Mar,2018,4706
+1026,Yavatmal,LRA,Mar,2018,4585
+1027,Yavatmal,N-44,Mar,2018,4603
+1028,Yavatmal,DCH-32(Unginned),Mar,2018,4464
+1029,Chandrapur,Varaxmi,Mar,2018,4390
+1030,Chandrapur,Desi,Mar,2018,4533
+1031,Chandrapur,Other,Mar,2018,4529
+1032,Chandrapur,H-4(A) 27mm FIne,Mar,2018,4666
+1033,Chandrapur,LRA,Mar,2018,4537
+1034,Chandrapur,N-44,Mar,2018,4534
+1035,Chandrapur,DCH-32(Unginned),Mar,2018,4458
+1036,Parbhani,Varaxmi,Mar,2018,4842
+1037,Parbhani,Desi,Mar,2018,4823
+1038,Parbhani,Other,Mar,2018,4621
+1039,Parbhani,H-4(A) 27mm FIne,Mar,2018,4925
+1040,Parbhani,LRA,Mar,2018,4830
+1041,Parbhani,N-44,Mar,2018,4823
+1042,Parbhani,DCH-32(Unginned),Mar,2018,4521
+1043,Amarawati,Varaxmi,Mar,2018,4674
+1044,Amarawati,Desi,Mar,2018,4705
+1045,Amarawati,Other,Mar,2018,4669
+1046,Amarawati,H-4(A) 27mm FIne,Mar,2018,4753
+1047,Amarawati,LRA,Mar,2018,4737
+1048,Amarawati,N-44,Mar,2018,4716
+1049,Amarawati,DCH-32(Unginned),Mar,2018,4465
+1050,Jalana,Varaxmi,Mar,2018,4037
+1051,Jalana,Desi,Mar,2018,3954
+1052,Jalana,Other,Mar,2018,3954
+1053,Jalana,H-4(A) 27mm FIne,Mar,2018,3863
+1054,Jalana,LRA,Mar,2018,3954
+1055,Jalana,N-44,Mar,2018,3954
+1056,Jalana,DCH-32(Unginned),Mar,2018,3954
+1057,Beed,Varaxmi,Mar,2018,4667
+1058,Beed,Desi,Mar,2018,4698
+1059,Beed,Other,Mar,2018,4661
+1060,Beed,H-4(A) 27mm FIne,Mar,2018,4753
+1061,Beed,LRA,Mar,2018,4731
+1062,Beed,N-44,Mar,2018,4703
+1063,Beed,DCH-32(Unginned),Mar,2018,4463
+1064,Buldhana,Varaxmi,Mar,2018,4360
+1065,Buldhana,Desi,Mar,2018,4549
+1066,Buldhana,Other,Mar,2018,4538
+1067,Buldhana,H-4(A) 27mm FIne,Mar,2018,4884
+1068,Buldhana,LRA,Mar,2018,4557
+1069,Buldhana,N-44,Mar,2018,4549
+1070,Buldhana,DCH-32(Unginned),Mar,2018,4467
+1071,Nanded,Varaxmi,Mar,2018,4143
+1072,Nanded,Desi,Mar,2018,4218
+1073,Nanded,Other,Mar,2018,4215
+1074,Nanded,H-4(A) 27mm FIne,Mar,2018,4352
+1075,Nanded,LRA,Mar,2018,4225
+1076,Nanded,N-44,Mar,2018,4220
+1077,Nanded,DCH-32(Unginned),Mar,2018,4403
+1078,Akola,Varaxmi,Mar,2018,4426
+1079,Akola,Desi,Mar,2018,4624
+1080,Akola,Other,Mar,2018,4607
+1081,Akola,H-4(A) 27mm FIne,Mar,2018,4742
+1082,Akola,LRA,Mar,2018,4719
+1083,Akola,N-44,Mar,2018,4631
+1084,Akola,DCH-32(Unginned),Mar,2018,4457
+1085,Aurangabad,Varaxmi,Mar,2018,4763
+1086,Aurangabad,Desi,Mar,2018,4754
+1087,Aurangabad,Other,Mar,2018,4714
+1088,Aurangabad,H-4(A) 27mm FIne,Mar,2018,4776
+1089,Aurangabad,LRA,Mar,2018,4777
+1090,Aurangabad,N-44,Mar,2018,4753
+1091,Aurangabad,DCH-32(Unginned),Mar,2018,4490
+1092,Wardha,Varaxmi,Apr,2018,4496
+1093,Wardha,Desi,Apr,2018,4577
+1094,Wardha,Other,Apr,2018,4569
+1095,Wardha,H-4(A) 27mm FIne,Apr,2018,4756
+1096,Wardha,LRA,Apr,2018,4601
+1097,Wardha,N-44,Apr,2018,4580
+1098,Wardha,DCH-32(Unginned),Apr,2018,4524
+1099,Nagpur,Varaxmi,Apr,2018,4774
+1100,Nagpur,Desi,Apr,2018,4805
+1101,Nagpur,Other,Apr,2018,4786
+1102,Nagpur,H-4(A) 27mm FIne,Apr,2018,4768
+1103,Nagpur,LRA,Apr,2018,4879
+1104,Nagpur,N-44,Apr,2018,4804
+1105,Nagpur,DCH-32(Unginned),Apr,2018,4589
+1106,Yavatmal,Varaxmi,Apr,2018,4699
+1107,Yavatmal,Desi,Apr,2018,4660
+1108,Yavatmal,Other,Apr,2018,4649
+1109,Yavatmal,H-4(A) 27mm FIne,Apr,2018,4771
+1110,Yavatmal,LRA,Apr,2018,4636
+1111,Yavatmal,N-44,Apr,2018,4664
+1112,Yavatmal,DCH-32(Unginned),Apr,2018,4525
+1113,Chandrapur,Varaxmi,Apr,2018,4490
+1114,Chandrapur,Desi,Apr,2018,4593
+1115,Chandrapur,Other,Apr,2018,4590
+1116,Chandrapur,H-4(A) 27mm FIne,Apr,2018,4699
+1117,Chandrapur,LRA,Apr,2018,4598
+1118,Chandrapur,N-44,Apr,2018,4593
+1119,Chandrapur,DCH-32(Unginned),Apr,2018,4525
+1120,Parbhani,Varaxmi,Apr,2018,4850
+1121,Parbhani,Desi,Apr,2018,4800
+1122,Parbhani,Other,Apr,2018,4644
+1123,Parbhani,H-4(A) 27mm FIne,Apr,2018,4894
+1124,Parbhani,LRA,Apr,2018,4805
+1125,Parbhani,N-44,Apr,2018,4801
+1126,Parbhani,DCH-32(Unginned),Apr,2018,4565
+1127,Amarawati,Varaxmi,Apr,2018,4690
+1128,Amarawati,Desi,Apr,2018,4709
+1129,Amarawati,Other,Apr,2018,4685
+1130,Amarawati,H-4(A) 27mm FIne,Apr,2018,4796
+1131,Amarawati,LRA,Apr,2018,4727
+1132,Amarawati,N-44,Apr,2018,4716
+1133,Amarawati,DCH-32(Unginned),Apr,2018,4527
+1134,Jalana,Varaxmi,Apr,2018,4033
+1135,Jalana,Desi,Apr,2018,4054
+1136,Jalana,Other,Apr,2018,4054
+1137,Jalana,H-4(A) 27mm FIne,Apr,2018,4084
+1138,Jalana,LRA,Apr,2018,4054
+1139,Jalana,N-44,Apr,2018,4054
+1140,Jalana,DCH-32(Unginned),Apr,2018,4054
+1141,Beed,Varaxmi,Apr,2018,4686
+1142,Beed,Desi,Apr,2018,4701
+1143,Beed,Other,Apr,2018,4676
+1144,Beed,H-4(A) 27mm FIne,Apr,2018,4799
+1145,Beed,LRA,Apr,2018,4722
+1146,Beed,N-44,Apr,2018,4704
+1147,Beed,DCH-32(Unginned),Apr,2018,4527
+1148,Buldhana,Varaxmi,Apr,2018,4373
+1149,Buldhana,Desi,Apr,2018,4528
+1150,Buldhana,Other,Apr,2018,4524
+1151,Buldhana,H-4(A) 27mm FIne,Apr,2018,4920
+1152,Buldhana,LRA,Apr,2018,4534
+1153,Buldhana,N-44,Apr,2018,4527
+1154,Buldhana,DCH-32(Unginned),Apr,2018,4537
+1155,Nanded,Varaxmi,Apr,2018,4369
+1156,Nanded,Desi,Apr,2018,4419
+1157,Nanded,Other,Apr,2018,4416
+1158,Nanded,H-4(A) 27mm FIne,Apr,2018,4538
+1159,Nanded,LRA,Apr,2018,4425
+1160,Nanded,N-44,Apr,2018,4420
+1161,Nanded,DCH-32(Unginned),Apr,2018,4493
+1162,Akola,Varaxmi,Apr,2018,4480
+1163,Akola,Desi,Apr,2018,4648
+1164,Akola,Other,Apr,2018,4635
+1165,Akola,H-4(A) 27mm FIne,Apr,2018,4791
+1166,Akola,LRA,Apr,2018,4721
+1167,Akola,N-44,Apr,2018,4653
+1168,Akola,DCH-32(Unginned),Apr,2018,4524
+1169,Aurangabad,Varaxmi,Apr,2018,4801
+1170,Aurangabad,Desi,Apr,2018,4773
+1171,Aurangabad,Other,Apr,2018,4738
+1172,Aurangabad,H-4(A) 27mm FIne,Apr,2018,4817
+1173,Aurangabad,LRA,Apr,2018,4785
+1174,Aurangabad,N-44,Apr,2018,4774
+1175,Aurangabad,DCH-32(Unginned),Apr,2018,4546
+1176,Wardha,Varaxmi,May,2018,4496
+1177,Wardha,Desi,May,2018,4577
+1178,Wardha,Other,May,2018,4569
+1179,Wardha,H-4(A) 27mm FIne,May,2018,4756
+1180,Wardha,LRA,May,2018,4601
+1181,Wardha,N-44,May,2018,4580
+1182,Wardha,DCH-32(Unginned),May,2018,4524
+1183,Nagpur,Varaxmi,May,2018,4774
+1184,Nagpur,Desi,May,2018,4805
+1185,Nagpur,Other,May,2018,4786
+1186,Nagpur,H-4(A) 27mm FIne,May,2018,4768
+1187,Nagpur,LRA,May,2018,4879
+1188,Nagpur,N-44,May,2018,4804
+1189,Nagpur,DCH-32(Unginned),May,2018,4589
+1190,Yavatmal,Varaxmi,May,2018,4699
+1191,Yavatmal,Desi,May,2018,4660
+1192,Yavatmal,Other,May,2018,4649
+1193,Yavatmal,H-4(A) 27mm FIne,May,2018,4771
+1194,Yavatmal,LRA,May,2018,4636
+1195,Yavatmal,N-44,May,2018,4664
+1196,Yavatmal,DCH-32(Unginned),May,2018,4525
+1197,Chandrapur,Varaxmi,May,2018,4490
+1198,Chandrapur,Desi,May,2018,4593
+1199,Chandrapur,Other,May,2018,4590
+1200,Chandrapur,H-4(A) 27mm FIne,May,2018,4699
+1201,Chandrapur,LRA,May,2018,4598
+1202,Chandrapur,N-44,May,2018,4593
+1203,Chandrapur,DCH-32(Unginned),May,2018,4525
+1204,Parbhani,Varaxmi,May,2018,4850
+1205,Parbhani,Desi,May,2018,4800
+1206,Parbhani,Other,May,2018,4644
+1207,Parbhani,H-4(A) 27mm FIne,May,2018,4894
+1208,Parbhani,LRA,May,2018,4805
+1209,Parbhani,N-44,May,2018,4801
+1210,Parbhani,DCH-32(Unginned),May,2018,4565
+1211,Amarawati,Varaxmi,May,2018,4690
+1212,Amarawati,Desi,May,2018,4709
+1213,Amarawati,Other,May,2018,4685
+1214,Amarawati,H-4(A) 27mm FIne,May,2018,4796
+1215,Amarawati,LRA,May,2018,4727
+1216,Amarawati,N-44,May,2018,4716
+1217,Amarawati,DCH-32(Unginned),May,2018,4527
+1218,Jalana,Varaxmi,May,2018,4033
+1219,Jalana,Desi,May,2018,4054
+1220,Jalana,Other,May,2018,4054
+1221,Jalana,H-4(A) 27mm FIne,May,2018,4084
+1222,Jalana,LRA,May,2018,4054
+1223,Jalana,N-44,May,2018,4054
+1224,Jalana,DCH-32(Unginned),May,2018,4054
+1225,Beed,Varaxmi,May,2018,4686
+1226,Beed,Desi,May,2018,4701
+1227,Beed,Other,May,2018,4676
+1228,Beed,H-4(A) 27mm FIne,May,2018,4799
+1229,Beed,LRA,May,2018,4722
+1230,Beed,N-44,May,2018,4704
+1231,Beed,DCH-32(Unginned),May,2018,4527
+1232,Buldhana,Varaxmi,May,2018,4373
+1233,Buldhana,Desi,May,2018,4528
+1234,Buldhana,Other,May,2018,4524
+1235,Buldhana,H-4(A) 27mm FIne,May,2018,4920
+1236,Buldhana,LRA,May,2018,4534
+1237,Buldhana,N-44,May,2018,4527
+1238,Buldhana,DCH-32(Unginned),May,2018,4537
+1239,Nanded,Varaxmi,May,2018,4369
+1240,Nanded,Desi,May,2018,4419
+1241,Nanded,Other,May,2018,4416
+1242,Nanded,H-4(A) 27mm FIne,May,2018,4538
+1243,Nanded,LRA,May,2018,4425
+1244,Nanded,N-44,May,2018,4420
+1245,Nanded,DCH-32(Unginned),May,2018,4493
+1246,Akola,Varaxmi,May,2018,4480
+1247,Akola,Desi,May,2018,4648
+1248,Akola,Other,May,2018,4635
+1249,Akola,H-4(A) 27mm FIne,May,2018,4791
+1250,Akola,LRA,May,2018,4721
+1251,Akola,N-44,May,2018,4653
+1252,Akola,DCH-32(Unginned),May,2018,4524
+1253,Aurangabad,Varaxmi,May,2018,4801
+1254,Aurangabad,Desi,May,2018,4773
+1255,Aurangabad,Other,May,2018,4738
+1256,Aurangabad,H-4(A) 27mm FIne,May,2018,4817
+1257,Aurangabad,LRA,May,2018,4785
+1258,Aurangabad,N-44,May,2018,4774
+1259,Aurangabad,DCH-32(Unginned),May,2018,4546
+1260,Wardha,Varaxmi,Jun,2018,4496
+1261,Wardha,Desi,Jun,2018,4577
+1262,Wardha,Other,Jun,2018,4569
+1263,Wardha,H-4(A) 27mm FIne,Jun,2018,4756
+1264,Wardha,LRA,Jun,2018,4601
+1265,Wardha,N-44,Jun,2018,4580
+1266,Wardha,DCH-32(Unginned),Jun,2018,4524
+1267,Nagpur,Varaxmi,Jun,2018,4774
+1268,Nagpur,Desi,Jun,2018,4805
+1269,Nagpur,Other,Jun,2018,4786
+1270,Nagpur,H-4(A) 27mm FIne,Jun,2018,4768
+1271,Nagpur,LRA,Jun,2018,4879
+1272,Nagpur,N-44,Jun,2018,4804
+1273,Nagpur,DCH-32(Unginned),Jun,2018,4589
+1274,Yavatmal,Varaxmi,Jun,2018,4699
+1275,Yavatmal,Desi,Jun,2018,4660
+1276,Yavatmal,Other,Jun,2018,4649
+1277,Yavatmal,H-4(A) 27mm FIne,Jun,2018,4771
+1278,Yavatmal,LRA,Jun,2018,4636
+1279,Yavatmal,N-44,Jun,2018,4664
+1280,Yavatmal,DCH-32(Unginned),Jun,2018,4525
+1281,Chandrapur,Varaxmi,Jun,2018,4490
+1282,Chandrapur,Desi,Jun,2018,4593
+1283,Chandrapur,Other,Jun,2018,4590
+1284,Chandrapur,H-4(A) 27mm FIne,Jun,2018,4699
+1285,Chandrapur,LRA,Jun,2018,4598
+1286,Chandrapur,N-44,Jun,2018,4593
+1287,Chandrapur,DCH-32(Unginned),Jun,2018,4525
+1288,Parbhani,Varaxmi,Jun,2018,4850
+1289,Parbhani,Desi,Jun,2018,4800
+1290,Parbhani,Other,Jun,2018,4644
+1291,Parbhani,H-4(A) 27mm FIne,Jun,2018,4894
+1292,Parbhani,LRA,Jun,2018,4805
+1293,Parbhani,N-44,Jun,2018,4801
+1294,Parbhani,DCH-32(Unginned),Jun,2018,4565
+1295,Amarawati,Varaxmi,Jun,2018,4690
+1296,Amarawati,Desi,Jun,2018,4709
+1297,Amarawati,Other,Jun,2018,4685
+1298,Amarawati,H-4(A) 27mm FIne,Jun,2018,4796
+1299,Amarawati,LRA,Jun,2018,4727
+1300,Amarawati,N-44,Jun,2018,4716
+1301,Amarawati,DCH-32(Unginned),Jun,2018,4527
+1302,Jalana,Varaxmi,Jun,2018,4033
+1303,Jalana,Desi,Jun,2018,4054
+1304,Jalana,Other,Jun,2018,4054
+1305,Jalana,H-4(A) 27mm FIne,Jun,2018,4084
+1306,Jalana,LRA,Jun,2018,4054
+1307,Jalana,N-44,Jun,2018,4054
+1308,Jalana,DCH-32(Unginned),Jun,2018,4054
+1309,Beed,Varaxmi,Jun,2018,4686
+1310,Beed,Desi,Jun,2018,4701
+1311,Beed,Other,Jun,2018,4676
+1312,Beed,H-4(A) 27mm FIne,Jun,2018,4799
+1313,Beed,LRA,Jun,2018,4722
+1314,Beed,N-44,Jun,2018,4704
+1315,Beed,DCH-32(Unginned),Jun,2018,4527
+1316,Buldhana,Varaxmi,Jun,2018,4373
+1317,Buldhana,Desi,Jun,2018,4528
+1318,Buldhana,Other,Jun,2018,4524
+1319,Buldhana,H-4(A) 27mm FIne,Jun,2018,4920
+1320,Buldhana,LRA,Jun,2018,4534
+1321,Buldhana,N-44,Jun,2018,4527
+1322,Buldhana,DCH-32(Unginned),Jun,2018,4537
+1323,Nanded,Varaxmi,Jun,2018,4369
+1324,Nanded,Desi,Jun,2018,4419
+1325,Nanded,Other,Jun,2018,4416
+1326,Nanded,H-4(A) 27mm FIne,Jun,2018,4538
+1327,Nanded,LRA,Jun,2018,4425
+1328,Nanded,N-44,Jun,2018,4420
+1329,Nanded,DCH-32(Unginned),Jun,2018,4493
+1330,Akola,Varaxmi,Jun,2018,4480
+1331,Akola,Desi,Jun,2018,4648
+1332,Akola,Other,Jun,2018,4635
+1333,Akola,H-4(A) 27mm FIne,Jun,2018,4791
+1334,Akola,LRA,Jun,2018,4721
+1335,Akola,N-44,Jun,2018,4653
+1336,Akola,DCH-32(Unginned),Jun,2018,4524
+1337,Aurangabad,Varaxmi,Jun,2018,4801
+1338,Aurangabad,Desi,Jun,2018,4773
+1339,Aurangabad,Other,Jun,2018,4738
+1340,Aurangabad,H-4(A) 27mm FIne,Jun,2018,4817
+1341,Aurangabad,LRA,Jun,2018,4785
+1342,Aurangabad,N-44,Jun,2018,4774
+1343,Aurangabad,DCH-32(Unginned),Jun,2018,4546
+1344,Wardha,Varaxmi,Jul,2018,4809
+1345,Wardha,Desi,Jul,2018,4906
+1346,Wardha,Other,Jul,2018,4898
+1347,Wardha,H-4(A) 27mm FIne,Jul,2018,4901
+1348,Wardha,LRA,Jul,2018,5023
+1349,Wardha,N-44,Jul,2018,4915
+1350,Wardha,DCH-32(Unginned),Jul,2018,4906
+1351,Nagpur,Varaxmi,Jul,2018,4981
+1352,Nagpur,Desi,Jul,2018,4988
+1353,Nagpur,Other,Jul,2018,4953
+1354,Nagpur,H-4(A) 27mm FIne,Jul,2018,4987
+1355,Nagpur,LRA,Jul,2018,5044
+1356,Nagpur,N-44,Jul,2018,4989
+1357,Nagpur,DCH-32(Unginned),Jul,2018,4977
+1358,Yavatmal,Varaxmi,Jul,2018,5071
+1359,Yavatmal,Desi,Jul,2018,4961
+1360,Yavatmal,Other,Jul,2018,4960
+1361,Yavatmal,H-4(A) 27mm FIne,Jul,2018,4961
+1362,Yavatmal,LRA,Jul,2018,4847
+1363,Yavatmal,N-44,Jul,2018,4961
+1364,Yavatmal,DCH-32(Unginned),Jul,2018,4961
+1365,Chandrapur,Varaxmi,Jul,2018,4917
+1366,Chandrapur,Desi,Jul,2018,4946
+1367,Chandrapur,Other,Jul,2018,4929
+1368,Chandrapur,H-4(A) 27mm FIne,Jul,2018,4941
+1369,Chandrapur,LRA,Jul,2018,5044
+1370,Chandrapur,N-44,Jul,2018,4954
+1371,Chandrapur,DCH-32(Unginned),Jul,2018,4947
+1372,Parbhani,Varaxmi,Jul,2018,5068
+1373,Parbhani,Desi,Jul,2018,4914
+1374,Parbhani,Other,Jul,2018,4880
+1375,Parbhani,H-4(A) 27mm FIne,Jul,2018,4872
+1376,Parbhani,LRA,Jul,2018,5015
+1377,Parbhani,N-44,Jul,2018,4917
+1378,Parbhani,DCH-32(Unginned),Jul,2018,4913
+1379,Amarawati,Varaxmi,Jul,2018,4816
+1380,Amarawati,Desi,Jul,2018,4932
+1381,Amarawati,Other,Jul,2018,4924
+1382,Amarawati,H-4(A) 27mm FIne,Jul,2018,4927
+1383,Amarawati,LRA,Jul,2018,5016
+1384,Amarawati,N-44,Jul,2018,4973
+1385,Amarawati,DCH-32(Unginned),Jul,2018,4931
+1386,Jalana,Varaxmi,Jul,2018,4814
+1387,Jalana,Desi,Jul,2018,4873
+1388,Jalana,Other,Jul,2018,4872
+1389,Jalana,H-4(A) 27mm FIne,Jul,2018,4888
+1390,Jalana,LRA,Jul,2018,4975
+1391,Jalana,N-44,Jul,2018,4878
+1392,Jalana,DCH-32(Unginned),Jul,2018,4875
+1393,Beed,Varaxmi,Jul,2018,4983
+1394,Beed,Desi,Jul,2018,4980
+1395,Beed,Other,Jul,2018,4941
+1396,Beed,H-4(A) 27mm FIne,Jul,2018,4973
+1397,Beed,LRA,Jul,2018,5050
+1398,Beed,N-44,Jul,2018,4989
+1399,Beed,DCH-32(Unginned),Jul,2018,4967
+1400,Buldhana,Varaxmi,Jul,2018,4743
+1401,Buldhana,Desi,Jul,2018,5080
+1402,Buldhana,Other,Jul,2018,5049
+1403,Buldhana,H-4(A) 27mm FIne,Jul,2018,5143
+1404,Buldhana,LRA,Jul,2018,5095
+1405,Buldhana,N-44,Jul,2018,5080
+1406,Buldhana,DCH-32(Unginned),Jul,2018,5083
+1407,Nanded,Varaxmi,Jul,2018,4799
+1408,Nanded,Desi,Jul,2018,4862
+1409,Nanded,Other,Jul,2018,4857
+1410,Nanded,H-4(A) 27mm FIne,Jul,2018,4859
+1411,Nanded,LRA,Jul,2018,4934
+1412,Nanded,N-44,Jul,2018,4868
+1413,Nanded,DCH-32(Unginned),Jul,2018,4862
+1414,Akola,Varaxmi,Jul,2018,4809
+1415,Akola,Desi,Jul,2018,4925
+1416,Akola,Other,Jul,2018,4914
+1417,Akola,H-4(A) 27mm FIne,Jul,2018,4921
+1418,Akola,LRA,Jul,2018,5068
+1419,Akola,N-44,Jul,2018,4934
+1420,Akola,DCH-32(Unginned),Jul,2018,4925
+1421,Aurangabad,Varaxmi,Jul,2018,4925
+1422,Aurangabad,Desi,Jul,2018,4966
+1423,Aurangabad,Other,Jul,2018,4936
+1424,Aurangabad,H-4(A) 27mm FIne,Jul,2018,4959
+1425,Aurangabad,LRA,Jul,2018,5049
+1426,Aurangabad,N-44,Jul,2018,4976
+1427,Aurangabad,DCH-32(Unginned),Jul,2018,4961
+1428,Wardha,Varaxmi,Aug,2018,4496
+1429,Wardha,Desi,Aug,2018,4577
+1430,Wardha,Other,Aug,2018,4569
+1431,Wardha,H-4(A) 27mm FIne,Aug,2018,4756
+1432,Wardha,LRA,Aug,2018,4601
+1433,Wardha,N-44,Aug,2018,4580
+1434,Wardha,DCH-32(Unginned),Aug,2018,4524
+1435,Nagpur,Varaxmi,Aug,2018,4774
+1436,Nagpur,Desi,Aug,2018,4805
+1437,Nagpur,Other,Aug,2018,4786
+1438,Nagpur,H-4(A) 27mm FIne,Aug,2018,4768
+1439,Nagpur,LRA,Aug,2018,4879
+1440,Nagpur,N-44,Aug,2018,4804
+1441,Nagpur,DCH-32(Unginned),Aug,2018,4589
+1442,Yavatmal,Varaxmi,Aug,2018,4699
+1443,Yavatmal,Desi,Aug,2018,4660
+1444,Yavatmal,Other,Aug,2018,4649
+1445,Yavatmal,H-4(A) 27mm FIne,Aug,2018,4771
+1446,Yavatmal,LRA,Aug,2018,4636
+1447,Yavatmal,N-44,Aug,2018,4664
+1448,Yavatmal,DCH-32(Unginned),Aug,2018,4525
+1449,Chandrapur,Varaxmi,Aug,2018,4490
+1450,Chandrapur,Desi,Aug,2018,4593
+1451,Chandrapur,Other,Aug,2018,4590
+1452,Chandrapur,H-4(A) 27mm FIne,Aug,2018,4699
+1453,Chandrapur,LRA,Aug,2018,4598
+1454,Chandrapur,N-44,Aug,2018,4593
+1455,Chandrapur,DCH-32(Unginned),Aug,2018,4525
+1456,Parbhani,Varaxmi,Aug,2018,4850
+1457,Parbhani,Desi,Aug,2018,4800
+1458,Parbhani,Other,Aug,2018,4644
+1459,Parbhani,H-4(A) 27mm FIne,Aug,2018,4894
+1460,Parbhani,LRA,Aug,2018,4805
+1461,Parbhani,N-44,Aug,2018,4801
+1462,Parbhani,DCH-32(Unginned),Aug,2018,4565
+1463,Amarawati,Varaxmi,Aug,2018,4690
+1464,Amarawati,Desi,Aug,2018,4709
+1465,Amarawati,Other,Aug,2018,4685
+1466,Amarawati,H-4(A) 27mm FIne,Aug,2018,4796
+1467,Amarawati,LRA,Aug,2018,4727
+1468,Amarawati,N-44,Aug,2018,4716
+1469,Amarawati,DCH-32(Unginned),Aug,2018,4527
+1470,Jalana,Varaxmi,Aug,2018,4033
+1471,Jalana,Desi,Aug,2018,4054
+1472,Jalana,Other,Aug,2018,4054
+1473,Jalana,H-4(A) 27mm FIne,Aug,2018,4084
+1474,Jalana,LRA,Aug,2018,4054
+1475,Jalana,N-44,Aug,2018,4054
+1476,Jalana,DCH-32(Unginned),Aug,2018,4054
+1477,Beed,Varaxmi,Aug,2018,4686
+1478,Beed,Desi,Aug,2018,4701
+1479,Beed,Other,Aug,2018,4676
+1480,Beed,H-4(A) 27mm FIne,Aug,2018,4799
+1481,Beed,LRA,Aug,2018,4722
+1482,Beed,N-44,Aug,2018,4704
+1483,Beed,DCH-32(Unginned),Aug,2018,4527
+1484,Buldhana,Varaxmi,Aug,2018,4373
+1485,Buldhana,Desi,Aug,2018,4528
+1486,Buldhana,Other,Aug,2018,4524
+1487,Buldhana,H-4(A) 27mm FIne,Aug,2018,4920
+1488,Buldhana,LRA,Aug,2018,4534
+1489,Buldhana,N-44,Aug,2018,4527
+1490,Buldhana,DCH-32(Unginned),Aug,2018,4537
+1491,Nanded,Varaxmi,Aug,2018,4369
+1492,Nanded,Desi,Aug,2018,4419
+1493,Nanded,Other,Aug,2018,4416
+1494,Nanded,H-4(A) 27mm FIne,Aug,2018,4538
+1495,Nanded,LRA,Aug,2018,4425
+1496,Nanded,N-44,Aug,2018,4420
+1497,Nanded,DCH-32(Unginned),Aug,2018,4493
+1498,Akola,Varaxmi,Aug,2018,4480
+1499,Akola,Desi,Aug,2018,4648
+1500,Akola,Other,Aug,2018,4635
+1501,Akola,H-4(A) 27mm FIne,Aug,2018,4791
+1502,Akola,LRA,Aug,2018,4721
+1503,Akola,N-44,Aug,2018,4653
+1504,Akola,DCH-32(Unginned),Aug,2018,4524
+1505,Aurangabad,Varaxmi,Aug,2018,4801
+1506,Aurangabad,Desi,Aug,2018,4773
+1507,Aurangabad,Other,Aug,2018,4738
+1508,Aurangabad,H-4(A) 27mm FIne,Aug,2018,4817
+1509,Aurangabad,LRA,Aug,2018,4785
+1510,Aurangabad,N-44,Aug,2018,4774
+1511,Aurangabad,DCH-32(Unginned),Aug,2018,4546
+1512,Wardha,Varaxmi,Sep,2018,4496
+1513,Wardha,Desi,Sep,2018,4577
+1514,Wardha,Other,Sep,2018,4569
+1515,Wardha,H-4(A) 27mm FIne,Sep,2018,4756
+1516,Wardha,LRA,Sep,2018,4601
+1517,Wardha,N-44,Sep,2018,4580
+1518,Wardha,DCH-32(Unginned),Sep,2018,4524
+1519,Nagpur,Varaxmi,Sep,2018,4774
+1520,Nagpur,Desi,Sep,2018,4805
+1521,Nagpur,Other,Sep,2018,4786
+1522,Nagpur,H-4(A) 27mm FIne,Sep,2018,4768
+1523,Nagpur,LRA,Sep,2018,4879
+1524,Nagpur,N-44,Sep,2018,4804
+1525,Nagpur,DCH-32(Unginned),Sep,2018,4589
+1526,Yavatmal,Varaxmi,Sep,2018,4699
+1527,Yavatmal,Desi,Sep,2018,4660
+1528,Yavatmal,Other,Sep,2018,4649
+1529,Yavatmal,H-4(A) 27mm FIne,Sep,2018,4771
+1530,Yavatmal,LRA,Sep,2018,4636
+1531,Yavatmal,N-44,Sep,2018,4664
+1532,Yavatmal,DCH-32(Unginned),Sep,2018,4525
+1533,Chandrapur,Varaxmi,Sep,2018,4490
+1534,Chandrapur,Desi,Sep,2018,4593
+1535,Chandrapur,Other,Sep,2018,4590
+1536,Chandrapur,H-4(A) 27mm FIne,Sep,2018,4699
+1537,Chandrapur,LRA,Sep,2018,4598
+1538,Chandrapur,N-44,Sep,2018,4593
+1539,Chandrapur,DCH-32(Unginned),Sep,2018,4525
+1540,Parbhani,Varaxmi,Sep,2018,4850
+1541,Parbhani,Desi,Sep,2018,4800
+1542,Parbhani,Other,Sep,2018,4644
+1543,Parbhani,H-4(A) 27mm FIne,Sep,2018,4894
+1544,Parbhani,LRA,Sep,2018,4805
+1545,Parbhani,N-44,Sep,2018,4801
+1546,Parbhani,DCH-32(Unginned),Sep,2018,4565
+1547,Amarawati,Varaxmi,Sep,2018,4690
+1548,Amarawati,Desi,Sep,2018,4709
+1549,Amarawati,Other,Sep,2018,4685
+1550,Amarawati,H-4(A) 27mm FIne,Sep,2018,4796
+1551,Amarawati,LRA,Sep,2018,4727
+1552,Amarawati,N-44,Sep,2018,4716
+1553,Amarawati,DCH-32(Unginned),Sep,2018,4527
+1554,Jalana,Varaxmi,Sep,2018,4033
+1555,Jalana,Desi,Sep,2018,4054
+1556,Jalana,Other,Sep,2018,4054
+1557,Jalana,H-4(A) 27mm FIne,Sep,2018,4084
+1558,Jalana,LRA,Sep,2018,4054
+1559,Jalana,N-44,Sep,2018,4054
+1560,Jalana,DCH-32(Unginned),Sep,2018,4054
+1561,Beed,Varaxmi,Sep,2018,4686
+1562,Beed,Desi,Sep,2018,4701
+1563,Beed,Other,Sep,2018,4676
+1564,Beed,H-4(A) 27mm FIne,Sep,2018,4799
+1565,Beed,LRA,Sep,2018,4722
+1566,Beed,N-44,Sep,2018,4704
+1567,Beed,DCH-32(Unginned),Sep,2018,4527
+1568,Buldhana,Varaxmi,Sep,2018,4373
+1569,Buldhana,Desi,Sep,2018,4528
+1570,Buldhana,Other,Sep,2018,4524
+1571,Buldhana,H-4(A) 27mm FIne,Sep,2018,4920
+1572,Buldhana,LRA,Sep,2018,4534
+1573,Buldhana,N-44,Sep,2018,4527
+1574,Buldhana,DCH-32(Unginned),Sep,2018,4537
+1575,Nanded,Varaxmi,Sep,2018,4369
+1576,Nanded,Desi,Sep,2018,4419
+1577,Nanded,Other,Sep,2018,4416
+1578,Nanded,H-4(A) 27mm FIne,Sep,2018,4538
+1579,Nanded,LRA,Sep,2018,4425
+1580,Nanded,N-44,Sep,2018,4420
+1581,Nanded,DCH-32(Unginned),Sep,2018,4493
+1582,Akola,Varaxmi,Sep,2018,4480
+1583,Akola,Desi,Sep,2018,4648
+1584,Akola,Other,Sep,2018,4635
+1585,Akola,H-4(A) 27mm FIne,Sep,2018,4791
+1586,Akola,LRA,Sep,2018,4721
+1587,Akola,N-44,Sep,2018,4653
+1588,Akola,DCH-32(Unginned),Sep,2018,4524
+1589,Aurangabad,Varaxmi,Sep,2018,4801
+1590,Aurangabad,Desi,Sep,2018,4773
+1591,Aurangabad,Other,Sep,2018,4738
+1592,Aurangabad,H-4(A) 27mm FIne,Sep,2018,4817
+1593,Aurangabad,LRA,Sep,2018,4785
+1594,Aurangabad,N-44,Sep,2018,4774
+1595,Aurangabad,DCH-32(Unginned),Sep,2018,4546
+1596,Wardha,Varaxmi,Oct,2018,4496
+1597,Wardha,Desi,Oct,2018,4577
+1598,Wardha,Other,Oct,2018,4569
+1599,Wardha,H-4(A) 27mm FIne,Oct,2018,4756
+1600,Wardha,LRA,Oct,2018,4601
+1601,Wardha,N-44,Oct,2018,4580
+1602,Wardha,DCH-32(Unginned),Oct,2018,4524
+1603,Nagpur,Varaxmi,Oct,2018,4774
+1604,Nagpur,Desi,Oct,2018,4805
+1605,Nagpur,Other,Oct,2018,4786
+1606,Nagpur,H-4(A) 27mm FIne,Oct,2018,4768
+1607,Nagpur,LRA,Oct,2018,4879
+1608,Nagpur,N-44,Oct,2018,4804
+1609,Nagpur,DCH-32(Unginned),Oct,2018,4589
+1610,Yavatmal,Varaxmi,Oct,2018,4699
+1611,Yavatmal,Desi,Oct,2018,4660
+1612,Yavatmal,Other,Oct,2018,4649
+1613,Yavatmal,H-4(A) 27mm FIne,Oct,2018,4771
+1614,Yavatmal,LRA,Oct,2018,4636
+1615,Yavatmal,N-44,Oct,2018,4664
+1616,Yavatmal,DCH-32(Unginned),Oct,2018,4525
+1617,Chandrapur,Varaxmi,Oct,2018,4490
+1618,Chandrapur,Desi,Oct,2018,4593
+1619,Chandrapur,Other,Oct,2018,4590
+1620,Chandrapur,H-4(A) 27mm FIne,Oct,2018,4699
+1621,Chandrapur,LRA,Oct,2018,4598
+1622,Chandrapur,N-44,Oct,2018,4593
+1623,Chandrapur,DCH-32(Unginned),Oct,2018,4525
+1624,Parbhani,Varaxmi,Oct,2018,4850
+1625,Parbhani,Desi,Oct,2018,4800
+1626,Parbhani,Other,Oct,2018,4644
+1627,Parbhani,H-4(A) 27mm FIne,Oct,2018,4894
+1628,Parbhani,LRA,Oct,2018,4805
+1629,Parbhani,N-44,Oct,2018,4801
+1630,Parbhani,DCH-32(Unginned),Oct,2018,4565
+1631,Amarawati,Varaxmi,Oct,2018,4690
+1632,Amarawati,Desi,Oct,2018,4709
+1633,Amarawati,Other,Oct,2018,4685
+1634,Amarawati,H-4(A) 27mm FIne,Oct,2018,4796
+1635,Amarawati,LRA,Oct,2018,4727
+1636,Amarawati,N-44,Oct,2018,4716
+1637,Amarawati,DCH-32(Unginned),Oct,2018,4527
+1638,Jalana,Varaxmi,Oct,2018,4033
+1639,Jalana,Desi,Oct,2018,4054
+1640,Jalana,Other,Oct,2018,4054
+1641,Jalana,H-4(A) 27mm FIne,Oct,2018,4084
+1642,Jalana,LRA,Oct,2018,4054
+1643,Jalana,N-44,Oct,2018,4054
+1644,Jalana,DCH-32(Unginned),Oct,2018,4054
+1645,Beed,Varaxmi,Oct,2018,4686
+1646,Beed,Desi,Oct,2018,4701
+1647,Beed,Other,Oct,2018,4676
+1648,Beed,H-4(A) 27mm FIne,Oct,2018,4799
+1649,Beed,LRA,Oct,2018,4722
+1650,Beed,N-44,Oct,2018,4704
+1651,Beed,DCH-32(Unginned),Oct,2018,4527
+1652,Buldhana,Varaxmi,Oct,2018,4373
+1653,Buldhana,Desi,Oct,2018,4528
+1654,Buldhana,Other,Oct,2018,4524
+1655,Buldhana,H-4(A) 27mm FIne,Oct,2018,4920
+1656,Buldhana,LRA,Oct,2018,4534
+1657,Buldhana,N-44,Oct,2018,4527
+1658,Buldhana,DCH-32(Unginned),Oct,2018,4537
+1659,Nanded,Varaxmi,Oct,2018,4369
+1660,Nanded,Desi,Oct,2018,4419
+1661,Nanded,Other,Oct,2018,4416
+1662,Nanded,H-4(A) 27mm FIne,Oct,2018,4538
+1663,Nanded,LRA,Oct,2018,4425
+1664,Nanded,N-44,Oct,2018,4420
+1665,Nanded,DCH-32(Unginned),Oct,2018,4493
+1666,Akola,Varaxmi,Oct,2018,4480
+1667,Akola,Desi,Oct,2018,4648
+1668,Akola,Other,Oct,2018,4635
+1669,Akola,H-4(A) 27mm FIne,Oct,2018,4791
+1670,Akola,LRA,Oct,2018,4721
+1671,Akola,N-44,Oct,2018,4653
+1672,Akola,DCH-32(Unginned),Oct,2018,4524
+1673,Aurangabad,Varaxmi,Oct,2018,4801
+1674,Aurangabad,Desi,Oct,2018,4773
+1675,Aurangabad,Other,Oct,2018,4738
+1676,Aurangabad,H-4(A) 27mm FIne,Oct,2018,4817
+1677,Aurangabad,LRA,Oct,2018,4785
+1678,Aurangabad,N-44,Oct,2018,4774
+1679,Aurangabad,DCH-32(Unginned),Oct,2018,4546
+1680,Wardha,Varaxmi,Nov,2018,4188
+1681,Wardha,Desi,Nov,2018,4190
+1682,Wardha,Other,Nov,2018,4190
+1683,Wardha,H-4(A) 27mm FIne,Nov,2018,4190
+1684,Wardha,LRA,Nov,2018,4199
+1685,Wardha,N-44,Nov,2018,4196
+1686,Wardha,DCH-32(Unginned),Nov,2018,4262
+1687,Nagpur,Varaxmi,Nov,2018,4339
+1688,Nagpur,Desi,Nov,2018,4352
+1689,Nagpur,Other,Nov,2018,4352
+1690,Nagpur,H-4(A) 27mm FIne,Nov,2018,4355
+1691,Nagpur,LRA,Nov,2018,4413
+1692,Nagpur,N-44,Nov,2018,4371
+1693,Nagpur,DCH-32(Unginned),Nov,2018,4387
+1694,Yavatmal,Varaxmi,Nov,2018,4472
+1695,Yavatmal,Desi,Nov,2018,4437
+1696,Yavatmal,Other,Nov,2018,4434
+1697,Yavatmal,H-4(A) 27mm FIne,Nov,2018,4438
+1698,Yavatmal,LRA,Nov,2018,4397
+1699,Yavatmal,N-44,Nov,2018,4438
+1700,Yavatmal,DCH-32(Unginned),Nov,2018,4435
+1701,Chandrapur,Varaxmi,Nov,2018,4306
+1702,Chandrapur,Desi,Nov,2018,4292
+1703,Chandrapur,Other,Nov,2018,4292
+1704,Chandrapur,H-4(A) 27mm FIne,Nov,2018,4277
+1705,Chandrapur,LRA,Nov,2018,4307
+1706,Chandrapur,N-44,Nov,2018,4296
+1707,Chandrapur,DCH-32(Unginned),Nov,2018,4337
+1708,Parbhani,Varaxmi,Nov,2018,4468
+1709,Parbhani,Desi,Nov,2018,4457
+1710,Parbhani,Other,Nov,2018,4386
+1711,Parbhani,H-4(A) 27mm FIne,Nov,2018,4456
+1712,Parbhani,LRA,Nov,2018,4440
+1713,Parbhani,N-44,Nov,2018,4463
+1714,Parbhani,DCH-32(Unginned),Nov,2018,4445
+1715,Amarawati,Varaxmi,Nov,2018,4081
+1716,Amarawati,Desi,Nov,2018,4221
+1717,Amarawati,Other,Nov,2018,4221
+1718,Amarawati,H-4(A) 27mm FIne,Nov,2018,4380
+1719,Amarawati,LRA,Nov,2018,4222
+1720,Amarawati,N-44,Nov,2018,4221
+1721,Amarawati,DCH-32(Unginned),Nov,2018,4223
+1722,Jalana,Varaxmi,Nov,2018,4351
+1723,Jalana,Desi,Nov,2018,4358
+1724,Jalana,Other,Nov,2018,4358
+1725,Jalana,H-4(A) 27mm FIne,Nov,2018,4365
+1726,Jalana,LRA,Nov,2018,4369
+1727,Jalana,N-44,Nov,2018,4379
+1728,Jalana,DCH-32(Unginned),Nov,2018,4387
+1729,Beed,Varaxmi,Nov,2018,4403
+1730,Beed,Desi,Nov,2018,4403
+1731,Beed,Other,Nov,2018,4398
+1732,Beed,H-4(A) 27mm FIne,Nov,2018,4406
+1733,Beed,LRA,Nov,2018,4387
+1734,Beed,N-44,Nov,2018,4429
+1735,Beed,DCH-32(Unginned),Nov,2018,4403
+1736,Buldhana,Varaxmi,Nov,2018,4431
+1737,Buldhana,Desi,Nov,2018,4443
+1738,Buldhana,Other,Nov,2018,4429
+1739,Buldhana,H-4(A) 27mm FIne,Nov,2018,4459
+1740,Buldhana,LRA,Nov,2018,4423
+1741,Buldhana,N-44,Nov,2018,4456
+1742,Buldhana,DCH-32(Unginned),Nov,2018,4418
+1743,Nanded,Varaxmi,Nov,2018,4267
+1744,Nanded,Desi,Nov,2018,4271
+1745,Nanded,Other,Nov,2018,4271
+1746,Nanded,H-4(A) 27mm FIne,Nov,2018,4272
+1747,Nanded,LRA,Nov,2018,4288
+1748,Nanded,N-44,Nov,2018,4281
+1749,Nanded,DCH-32(Unginned),Nov,2018,4333
+1750,Akola,Varaxmi,Nov,2018,4304
+1751,Akola,Desi,Nov,2018,4309
+1752,Akola,Other,Nov,2018,4309
+1753,Akola,H-4(A) 27mm FIne,Nov,2018,4307
+1754,Akola,LRA,Nov,2018,4322
+1755,Akola,N-44,Nov,2018,4327
+1756,Akola,DCH-32(Unginned),Nov,2018,4363
+1757,Aurangabad,Varaxmi,Nov,2018,4452
+1758,Aurangabad,Desi,Nov,2018,4451
+1759,Aurangabad,Other,Nov,2018,4437
+1760,Aurangabad,H-4(A) 27mm FIne,Nov,2018,4452
+1761,Aurangabad,LRA,Nov,2018,4432
+1762,Aurangabad,N-44,Nov,2018,4461
+1763,Aurangabad,DCH-32(Unginned),Nov,2018,4429
+1764,Wardha,Varaxmi,Dec,2018,4496
+1765,Wardha,Desi,Dec,2018,4577
+1766,Wardha,Other,Dec,2018,4569
+1767,Wardha,H-4(A) 27mm FIne,Dec,2018,4756
+1768,Wardha,LRA,Dec,2018,4601
+1769,Wardha,N-44,Dec,2018,4580
+1770,Wardha,DCH-32(Unginned),Dec,2018,4524
+1771,Nagpur,Varaxmi,Dec,2018,4774
+1772,Nagpur,Desi,Dec,2018,4805
+1773,Nagpur,Other,Dec,2018,4786
+1774,Nagpur,H-4(A) 27mm FIne,Dec,2018,4768
+1775,Nagpur,LRA,Dec,2018,4879
+1776,Nagpur,N-44,Dec,2018,4804
+1777,Nagpur,DCH-32(Unginned),Dec,2018,4589
+1778,Yavatmal,Varaxmi,Dec,2018,4699
+1779,Yavatmal,Desi,Dec,2018,4660
+1780,Yavatmal,Other,Dec,2018,4649
+1781,Yavatmal,H-4(A) 27mm FIne,Dec,2018,4771
+1782,Yavatmal,LRA,Dec,2018,4636
+1783,Yavatmal,N-44,Dec,2018,4664
+1784,Yavatmal,DCH-32(Unginned),Dec,2018,4525
+1785,Chandrapur,Varaxmi,Dec,2018,4490
+1786,Chandrapur,Desi,Dec,2018,4593
+1787,Chandrapur,Other,Dec,2018,4590
+1788,Chandrapur,H-4(A) 27mm FIne,Dec,2018,4699
+1789,Chandrapur,LRA,Dec,2018,4598
+1790,Chandrapur,N-44,Dec,2018,4593
+1791,Chandrapur,DCH-32(Unginned),Dec,2018,4525
+1792,Parbhani,Varaxmi,Dec,2018,4850
+1793,Parbhani,Desi,Dec,2018,4800
+1794,Parbhani,Other,Dec,2018,4644
+1795,Parbhani,H-4(A) 27mm FIne,Dec,2018,4894
+1796,Parbhani,LRA,Dec,2018,4805
+1797,Parbhani,N-44,Dec,2018,4801
+1798,Parbhani,DCH-32(Unginned),Dec,2018,4565
+1799,Amarawati,Varaxmi,Dec,2018,4690
+1800,Amarawati,Desi,Dec,2018,4709
+1801,Amarawati,Other,Dec,2018,4685
+1802,Amarawati,H-4(A) 27mm FIne,Dec,2018,4796
+1803,Amarawati,LRA,Dec,2018,4727
+1804,Amarawati,N-44,Dec,2018,4716
+1805,Amarawati,DCH-32(Unginned),Dec,2018,4527
+1806,Jalana,Varaxmi,Dec,2018,4033
+1807,Jalana,Desi,Dec,2018,4054
+1808,Jalana,Other,Dec,2018,4054
+1809,Jalana,H-4(A) 27mm FIne,Dec,2018,4084
+1810,Jalana,LRA,Dec,2018,4054
+1811,Jalana,N-44,Dec,2018,4054
+1812,Jalana,DCH-32(Unginned),Dec,2018,4054
+1813,Beed,Varaxmi,Dec,2018,4686
+1814,Beed,Desi,Dec,2018,4701
+1815,Beed,Other,Dec,2018,4676
+1816,Beed,H-4(A) 27mm FIne,Dec,2018,4799
+1817,Beed,LRA,Dec,2018,4722
+1818,Beed,N-44,Dec,2018,4704
+1819,Beed,DCH-32(Unginned),Dec,2018,4527
+1820,Buldhana,Varaxmi,Dec,2018,4373
+1821,Buldhana,Desi,Dec,2018,4528
+1822,Buldhana,Other,Dec,2018,4524
+1823,Buldhana,H-4(A) 27mm FIne,Dec,2018,4920
+1824,Buldhana,LRA,Dec,2018,4534
+1825,Buldhana,N-44,Dec,2018,4527
+1826,Buldhana,DCH-32(Unginned),Dec,2018,4537
+1827,Nanded,Varaxmi,Dec,2018,4369
+1828,Nanded,Desi,Dec,2018,4419
+1829,Nanded,Other,Dec,2018,4416
+1830,Nanded,H-4(A) 27mm FIne,Dec,2018,4538
+1831,Nanded,LRA,Dec,2018,4425
+1832,Nanded,N-44,Dec,2018,4420
+1833,Nanded,DCH-32(Unginned),Dec,2018,4493
+1834,Akola,Varaxmi,Dec,2018,4480
+1835,Akola,Desi,Dec,2018,4648
+1836,Akola,Other,Dec,2018,4635
+1837,Akola,H-4(A) 27mm FIne,Dec,2018,4791
+1838,Akola,LRA,Dec,2018,4721
+1839,Akola,N-44,Dec,2018,4653
+1840,Akola,DCH-32(Unginned),Dec,2018,4524
+1841,Aurangabad,Varaxmi,Dec,2018,4801
+1842,Aurangabad,Desi,Dec,2018,4773
+1843,Aurangabad,Other,Dec,2018,4738
+1844,Aurangabad,H-4(A) 27mm FIne,Dec,2018,4817
+1845,Aurangabad,LRA,Dec,2018,4785
+1846,Aurangabad,N-44,Dec,2018,4774
+1847,Aurangabad,DCH-32(Unginned),Dec,2018,4546
+1848,Jalgaon,Varaxmi,Jan,2019,4562
+1849,Jalgaon,Desi,Jan,2019,4627
+1850,Jalgaon,Other,Jan,2019,4626
+1851,Jalgaon,H-4(A) 27mm FIne,Jan,2019,4841
+1852,Jalgaon,LRA,Jan,2019,4643
+1853,Jalgaon,N-44,Jan,2019,4630
+1854,Jalgaon,DCH-32(Unginned),Jan,2019,4587
+1855,Hingoli,Varaxmi,Jan,2019,4435
+1856,Hingoli,Desi,Jan,2019,4549
+1857,Hingoli,Other,Jan,2019,4547
+1858,Hingoli,H-4(A) 27mm FIne,Jan,2019,4902
+1859,Hingoli,LRA,Jan,2019,4557
+1860,Hingoli,N-44,Jan,2019,4548
+1861,Hingoli,DCH-32(Unginned),Jan,2019,4591
+1862,Vashim,Varaxmi,Jan,2019,4695
+1863,Vashim,Desi,Jan,2019,4711
+1864,Vashim,Other,Jan,2019,4678
+1865,Vashim,H-4(A) 27mm FIne,Jan,2019,4850
+1866,Vashim,LRA,Jan,2019,4725
+1867,Vashim,N-44,Jan,2019,4715
+1868,Vashim,DCH-32(Unginned),Jan,2019,4587
+1869,Gadchiroli,Varaxmi,Jan,2019,4684
+1870,Gadchiroli,Desi,Jan,2019,4662
+1871,Gadchiroli,Other,Jan,2019,4641
+1872,Gadchiroli,H-4(A) 27mm FIne,Jan,2019,4522
+1873,Gadchiroli,LRA,Jan,2019,4679
+1874,Gadchiroli,N-44,Jan,2019,4670
+1875,Gadchiroli,DCH-32(Unginned),Jan,2019,4587
+1876,Nandurbar,Varaxmi,Jan,2019,3973
+1877,Nandurbar,Desi,Jan,2019,4020
+1878,Nandurbar,Other,Jan,2019,4006
+1879,Nandurbar,H-4(A) 27mm FIne,Jan,2019,4176
+1880,Nandurbar,LRA,Jan,2019,4026
+1881,Nandurbar,N-44,Jan,2019,4021
+1882,Nandurbar,DCH-32(Unginned),Jan,2019,4307
+1883,Ahmednagar,Varaxmi,Jan,2019,4695
+1884,Ahmednagar,Desi,Jan,2019,4711
+1885,Ahmednagar,Other,Jan,2019,4678
+1886,Ahmednagar,H-4(A) 27mm FIne,Jan,2019,4850
+1887,Ahmednagar,LRA,Jan,2019,4725
+1888,Ahmednagar,N-44,Jan,2019,4715
+1889,Ahmednagar,DCH-32(Unginned),Jan,2019,4587
+1890,Jalgaon,Varaxmi,Feb,2019,4557
+1891,Jalgaon,Desi,Feb,2019,4634
+1892,Jalgaon,Other,Feb,2019,4624
+1893,Jalgaon,H-4(A) 27mm FIne,Feb,2019,4792
+1894,Jalgaon,LRA,Feb,2019,4667
+1895,Jalgaon,N-44,Feb,2019,4639
+1896,Jalgaon,DCH-32(Unginned),Feb,2019,4524
+1897,Hingoli,Varaxmi,Feb,2019,4441
+1898,Hingoli,Desi,Feb,2019,4491
+1899,Hingoli,Other,Feb,2019,4483
+1900,Hingoli,H-4(A) 27mm FIne,Feb,2019,4632
+1901,Hingoli,LRA,Feb,2019,4503
+1902,Hingoli,N-44,Feb,2019,4491
+1903,Hingoli,DCH-32(Unginned),Feb,2019,4523
+1904,Vashim,Varaxmi,Feb,2019,4651
+1905,Vashim,Desi,Feb,2019,4696
+1906,Vashim,Other,Feb,2019,4659
+1907,Vashim,H-4(A) 27mm FIne,Feb,2019,4798
+1908,Vashim,LRA,Feb,2019,4727
+1909,Vashim,N-44,Feb,2019,4701
+1910,Vashim,DCH-32(Unginned),Feb,2019,4524
+1911,Gadchiroli,Varaxmi,Feb,2019,4646
+1912,Gadchiroli,Desi,Feb,2019,4666
+1913,Gadchiroli,Other,Feb,2019,4636
+1914,Gadchiroli,H-4(A) 27mm FIne,Feb,2019,4590
+1915,Gadchiroli,LRA,Feb,2019,4698
+1916,Gadchiroli,N-44,Feb,2019,4674
+1917,Gadchiroli,DCH-32(Unginned),Feb,2019,4523
+1918,Nandurbar,Varaxmi,Feb,2019,4035
+1919,Nandurbar,Desi,Feb,2019,4095
+1920,Nandurbar,Other,Feb,2019,4077
+1921,Nandurbar,H-4(A) 27mm FIne,Feb,2019,4232
+1922,Nandurbar,LRA,Feb,2019,4110
+1923,Nandurbar,N-44,Feb,2019,4097
+1924,Nandurbar,DCH-32(Unginned),Feb,2019,4283
+1925,Ahmednagar,Varaxmi,Feb,2019,4651
+1926,Ahmednagar,Desi,Feb,2019,4696
+1927,Ahmednagar,Other,Feb,2019,4659
+1928,Ahmednagar,H-4(A) 27mm FIne,Feb,2019,4798
+1929,Ahmednagar,LRA,Feb,2019,4727
+1930,Ahmednagar,N-44,Feb,2019,4701
+1931,Ahmednagar,DCH-32(Unginned),Feb,2019,4524
+1932,Jalgaon,Varaxmi,Mar,2019,4551
+1933,Jalgaon,Desi,Mar,2019,4641
+1934,Jalgaon,Other,Mar,2019,4620
+1935,Jalgaon,H-4(A) 27mm FIne,Mar,2019,4748
+1936,Jalgaon,LRA,Mar,2019,4690
+1937,Jalgaon,N-44,Mar,2019,4648
+1938,Jalgaon,DCH-32(Unginned),Mar,2019,4458
+1939,Hingoli,Varaxmi,Mar,2019,4447
+1940,Hingoli,Desi,Mar,2019,4425
+1941,Hingoli,Other,Mar,2019,4412
+1942,Hingoli,H-4(A) 27mm FIne,Mar,2019,4367
+1943,Hingoli,LRA,Mar,2019,4446
+1944,Hingoli,N-44,Mar,2019,4428
+1945,Hingoli,DCH-32(Unginned),Mar,2019,4451
+1946,Vashim,Varaxmi,Mar,2019,4611
+1947,Vashim,Desi,Mar,2019,4689
+1948,Vashim,Other,Mar,2019,4644
+1949,Vashim,H-4(A) 27mm FIne,Mar,2019,4752
+1950,Vashim,LRA,Mar,2019,4732
+1951,Vashim,N-44,Mar,2019,4696
+1952,Vashim,DCH-32(Unginned),Mar,2019,4457
+1953,Gadchiroli,Varaxmi,Mar,2019,4611
+1954,Gadchiroli,Desi,Mar,2019,4677
+1955,Gadchiroli,Other,Mar,2019,4634
+1956,Gadchiroli,H-4(A) 27mm FIne,Mar,2019,4650
+1957,Gadchiroli,LRA,Mar,2019,4719
+1958,Gadchiroli,N-44,Mar,2019,4684
+1959,Gadchiroli,DCH-32(Unginned),Mar,2019,4457
+1960,Nandurbar,Varaxmi,Mar,2019,4069
+1961,Nandurbar,Desi,Mar,2019,4145
+1962,Nandurbar,Other,Mar,2019,4123
+1963,Nandurbar,H-4(A) 27mm FIne,Mar,2019,4261
+1964,Nandurbar,LRA,Mar,2019,4168
+1965,Nandurbar,N-44,Mar,2019,4149
+1966,Nandurbar,DCH-32(Unginned),Mar,2019,4256
+1967,Ahmednagar,Varaxmi,Mar,2019,4611
+1968,Ahmednagar,Desi,Mar,2019,4689
+1969,Ahmednagar,Other,Mar,2019,4644
+1970,Ahmednagar,H-4(A) 27mm FIne,Mar,2019,4752
+1971,Ahmednagar,LRA,Mar,2019,4732
+1972,Ahmednagar,N-44,Mar,2019,4696
+1973,Ahmednagar,DCH-32(Unginned),Mar,2019,4457
+1974,Jalgaon,Varaxmi,Apr,2019,4557
+1975,Jalgaon,Desi,Apr,2019,4634
+1976,Jalgaon,Other,Apr,2019,4624
+1977,Jalgaon,H-4(A) 27mm FIne,Apr,2019,4792
+1978,Jalgaon,LRA,Apr,2019,4667
+1979,Jalgaon,N-44,Apr,2019,4639
+1980,Jalgaon,DCH-32(Unginned),Apr,2019,4524
+1981,Hingoli,Varaxmi,Apr,2019,4441
+1982,Hingoli,Desi,Apr,2019,4491
+1983,Hingoli,Other,Apr,2019,4483
+1984,Hingoli,H-4(A) 27mm FIne,Apr,2019,4632
+1985,Hingoli,LRA,Apr,2019,4503
+1986,Hingoli,N-44,Apr,2019,4491
+1987,Hingoli,DCH-32(Unginned),Apr,2019,4523
+1988,Vashim,Varaxmi,Apr,2019,4651
+1989,Vashim,Desi,Apr,2019,4696
+1990,Vashim,Other,Apr,2019,4659
+1991,Vashim,H-4(A) 27mm FIne,Apr,2019,4798
+1992,Vashim,LRA,Apr,2019,4727
+1993,Vashim,N-44,Apr,2019,4701
+1994,Vashim,DCH-32(Unginned),Apr,2019,4524
+1995,Gadchiroli,Varaxmi,Apr,2019,4646
+1996,Gadchiroli,Desi,Apr,2019,4666
+1997,Gadchiroli,Other,Apr,2019,4636
+1998,Gadchiroli,H-4(A) 27mm FIne,Apr,2019,4590
+1999,Gadchiroli,LRA,Apr,2019,4698
+2000,Gadchiroli,N-44,Apr,2019,4674
+2001,Gadchiroli,DCH-32(Unginned),Apr,2019,4523
+2002,Nandurbar,Varaxmi,Apr,2019,4035
+2003,Nandurbar,Desi,Apr,2019,4095
+2004,Nandurbar,Other,Apr,2019,4077
+2005,Nandurbar,H-4(A) 27mm FIne,Apr,2019,4232
+2006,Nandurbar,LRA,Apr,2019,4110
+2007,Nandurbar,N-44,Apr,2019,4097
+2008,Nandurbar,DCH-32(Unginned),Apr,2019,4283
+2009,Ahmednagar,Varaxmi,Apr,2019,4651
+2010,Ahmednagar,Desi,Apr,2019,4696
+2011,Ahmednagar,Other,Apr,2019,4659
+2012,Ahmednagar,H-4(A) 27mm FIne,Apr,2019,4798
+2013,Ahmednagar,LRA,Apr,2019,4727
+2014,Ahmednagar,N-44,Apr,2019,4701
+2015,Ahmednagar,DCH-32(Unginned),Apr,2019,4524
+2016,Jalgaon,Varaxmi,May,2019,4557
+2017,Jalgaon,Desi,May,2019,4634
+2018,Jalgaon,Other,May,2019,4624
+2019,Jalgaon,H-4(A) 27mm FIne,May,2019,4792
+2020,Jalgaon,LRA,May,2019,4667
+2021,Jalgaon,N-44,May,2019,4639
+2022,Jalgaon,DCH-32(Unginned),May,2019,4524
+2023,Hingoli,Varaxmi,May,2019,4441
+2024,Hingoli,Desi,May,2019,4491
+2025,Hingoli,Other,May,2019,4483
+2026,Hingoli,H-4(A) 27mm FIne,May,2019,4632
+2027,Hingoli,LRA,May,2019,4503
+2028,Hingoli,N-44,May,2019,4491
+2029,Hingoli,DCH-32(Unginned),May,2019,4523
+2030,Vashim,Varaxmi,May,2019,4651
+2031,Vashim,Desi,May,2019,4696
+2032,Vashim,Other,May,2019,4659
+2033,Vashim,H-4(A) 27mm FIne,May,2019,4798
+2034,Vashim,LRA,May,2019,4727
+2035,Vashim,N-44,May,2019,4701
+2036,Vashim,DCH-32(Unginned),May,2019,4524
+2037,Gadchiroli,Varaxmi,May,2019,4646
+2038,Gadchiroli,Desi,May,2019,4666
+2039,Gadchiroli,Other,May,2019,4636
+2040,Gadchiroli,H-4(A) 27mm FIne,May,2019,4590
+2041,Gadchiroli,LRA,May,2019,4698
+2042,Gadchiroli,N-44,May,2019,4674
+2043,Gadchiroli,DCH-32(Unginned),May,2019,4523
+2044,Nandurbar,Varaxmi,May,2019,4035
+2045,Nandurbar,Desi,May,2019,4095
+2046,Nandurbar,Other,May,2019,4077
+2047,Nandurbar,H-4(A) 27mm FIne,May,2019,4232
+2048,Nandurbar,LRA,May,2019,4110
+2049,Nandurbar,N-44,May,2019,4097
+2050,Nandurbar,DCH-32(Unginned),May,2019,4283
+2051,Ahmednagar,Varaxmi,May,2019,4651
+2052,Ahmednagar,Desi,May,2019,4696
+2053,Ahmednagar,Other,May,2019,4659
+2054,Ahmednagar,H-4(A) 27mm FIne,May,2019,4798
+2055,Ahmednagar,LRA,May,2019,4727
+2056,Ahmednagar,N-44,May,2019,4701
+2057,Ahmednagar,DCH-32(Unginned),May,2019,4524
+2058,Jalgaon,Varaxmi,Jun,2019,4557
+2059,Jalgaon,Desi,Jun,2019,4634
+2060,Jalgaon,Other,Jun,2019,4624
+2061,Jalgaon,H-4(A) 27mm FIne,Jun,2019,4792
+2062,Jalgaon,LRA,Jun,2019,4667
+2063,Jalgaon,N-44,Jun,2019,4639
+2064,Jalgaon,DCH-32(Unginned),Jun,2019,4524
+2065,Hingoli,Varaxmi,Jun,2019,4441
+2066,Hingoli,Desi,Jun,2019,4491
+2067,Hingoli,Other,Jun,2019,4483
+2068,Hingoli,H-4(A) 27mm FIne,Jun,2019,4632
+2069,Hingoli,LRA,Jun,2019,4503
+2070,Hingoli,N-44,Jun,2019,4491
+2071,Hingoli,DCH-32(Unginned),Jun,2019,4523
+2072,Vashim,Varaxmi,Jun,2019,4651
+2073,Vashim,Desi,Jun,2019,4696
+2074,Vashim,Other,Jun,2019,4659
+2075,Vashim,H-4(A) 27mm FIne,Jun,2019,4798
+2076,Vashim,LRA,Jun,2019,4727
+2077,Vashim,N-44,Jun,2019,4701
+2078,Vashim,DCH-32(Unginned),Jun,2019,4524
+2079,Gadchiroli,Varaxmi,Jun,2019,4646
+2080,Gadchiroli,Desi,Jun,2019,4666
+2081,Gadchiroli,Other,Jun,2019,4636
+2082,Gadchiroli,H-4(A) 27mm FIne,Jun,2019,4590
+2083,Gadchiroli,LRA,Jun,2019,4698
+2084,Gadchiroli,N-44,Jun,2019,4674
+2085,Gadchiroli,DCH-32(Unginned),Jun,2019,4523
+2086,Nandurbar,Varaxmi,Jun,2019,4035
+2087,Nandurbar,Desi,Jun,2019,4095
+2088,Nandurbar,Other,Jun,2019,4077
+2089,Nandurbar,H-4(A) 27mm FIne,Jun,2019,4232
+2090,Nandurbar,LRA,Jun,2019,4110
+2091,Nandurbar,N-44,Jun,2019,4097
+2092,Nandurbar,DCH-32(Unginned),Jun,2019,4283
+2093,Ahmednagar,Varaxmi,Jun,2019,4651
+2094,Ahmednagar,Desi,Jun,2019,4696
+2095,Ahmednagar,Other,Jun,2019,4659
+2096,Ahmednagar,H-4(A) 27mm FIne,Jun,2019,4798
+2097,Ahmednagar,LRA,Jun,2019,4727
+2098,Ahmednagar,N-44,Jun,2019,4701
+2099,Ahmednagar,DCH-32(Unginned),Jun,2019,4524
+2100,Jalgaon,Varaxmi,Jul,2019,4805
+2101,Jalgaon,Desi,Jul,2019,4909
+2102,Jalgaon,Other,Jul,2019,4901
+2103,Jalgaon,H-4(A) 27mm FIne,Jul,2019,4904
+2104,Jalgaon,LRA,Jul,2019,5029
+2105,Jalgaon,N-44,Jul,2019,4918
+2106,Jalgaon,DCH-32(Unginned),Jul,2019,4909
+2107,Hingoli,Varaxmi,Jul,2019,4880
+2108,Hingoli,Desi,Jul,2019,5014
+2109,Hingoli,Other,Jul,2019,4974
+2110,Hingoli,H-4(A) 27mm FIne,Jul,2019,5038
+2111,Hingoli,LRA,Jul,2019,5053
+2112,Hingoli,N-44,Jul,2019,5013
+2113,Hingoli,DCH-32(Unginned),Jul,2019,5000
+2114,Vashim,Varaxmi,Jul,2019,4879
+2115,Vashim,Desi,Jul,2019,4975
+2116,Vashim,Other,Jul,2019,4936
+2117,Vashim,H-4(A) 27mm FIne,Jul,2019,4969
+2118,Vashim,LRA,Jul,2019,5050
+2119,Vashim,N-44,Jul,2019,4987
+2120,Vashim,DCH-32(Unginned),Jul,2019,4963
+2121,Gadchiroli,Varaxmi,Jul,2019,4542
+2122,Gadchiroli,Desi,Jul,2019,4501
+2123,Gadchiroli,Other,Jul,2019,4501
+2124,Gadchiroli,H-4(A) 27mm FIne,Jul,2019,4500
+2125,Gadchiroli,LRA,Jul,2019,4557
+2126,Gadchiroli,N-44,Jul,2019,4501
+2127,Gadchiroli,DCH-32(Unginned),Jul,2019,4501
+2128,Nandurbar,Varaxmi,Jul,2019,4181
+2129,Nandurbar,Desi,Jul,2019,4257
+2130,Nandurbar,Other,Jul,2019,4254
+2131,Nandurbar,H-4(A) 27mm FIne,Jul,2019,4256
+2132,Nandurbar,LRA,Jul,2019,4318
+2133,Nandurbar,N-44,Jul,2019,4258
+2134,Nandurbar,DCH-32(Unginned),Jul,2019,4256
+2135,Ahmednagar,Varaxmi,Jul,2019,4879
+2136,Ahmednagar,Desi,Jul,2019,4975
+2137,Ahmednagar,Other,Jul,2019,4936
+2138,Ahmednagar,H-4(A) 27mm FIne,Jul,2019,4969
+2139,Ahmednagar,LRA,Jul,2019,5050
+2140,Ahmednagar,N-44,Jul,2019,4987
+2141,Ahmednagar,DCH-32(Unginned),Jul,2019,4963
+2142,Jalgaon,Varaxmi,Aug,2019,4557
+2143,Jalgaon,Desi,Aug,2019,4634
+2144,Jalgaon,Other,Aug,2019,4624
+2145,Jalgaon,H-4(A) 27mm FIne,Aug,2019,4792
+2146,Jalgaon,LRA,Aug,2019,4667
+2147,Jalgaon,N-44,Aug,2019,4639
+2148,Jalgaon,DCH-32(Unginned),Aug,2019,4524
+2149,Hingoli,Varaxmi,Aug,2019,4441
+2150,Hingoli,Desi,Aug,2019,4491
+2151,Hingoli,Other,Aug,2019,4483
+2152,Hingoli,H-4(A) 27mm FIne,Aug,2019,4632
+2153,Hingoli,LRA,Aug,2019,4503
+2154,Hingoli,N-44,Aug,2019,4491
+2155,Hingoli,DCH-32(Unginned),Aug,2019,4523
+2156,Vashim,Varaxmi,Aug,2019,4651
+2157,Vashim,Desi,Aug,2019,4696
+2158,Vashim,Other,Aug,2019,4659
+2159,Vashim,H-4(A) 27mm FIne,Aug,2019,4798
+2160,Vashim,LRA,Aug,2019,4727
+2161,Vashim,N-44,Aug,2019,4701
+2162,Vashim,DCH-32(Unginned),Aug,2019,4524
+2163,Gadchiroli,Varaxmi,Aug,2019,4646
+2164,Gadchiroli,Desi,Aug,2019,4666
+2165,Gadchiroli,Other,Aug,2019,4636
+2166,Gadchiroli,H-4(A) 27mm FIne,Aug,2019,4590
+2167,Gadchiroli,LRA,Aug,2019,4698
+2168,Gadchiroli,N-44,Aug,2019,4674
+2169,Gadchiroli,DCH-32(Unginned),Aug,2019,4523
+2170,Nandurbar,Varaxmi,Aug,2019,4035
+2171,Nandurbar,Desi,Aug,2019,4095
+2172,Nandurbar,Other,Aug,2019,4077
+2173,Nandurbar,H-4(A) 27mm FIne,Aug,2019,4232
+2174,Nandurbar,LRA,Aug,2019,4110
+2175,Nandurbar,N-44,Aug,2019,4097
+2176,Nandurbar,DCH-32(Unginned),Aug,2019,4283
+2177,Ahmednagar,Varaxmi,Aug,2019,4651
+2178,Ahmednagar,Desi,Aug,2019,4696
+2179,Ahmednagar,Other,Aug,2019,4659
+2180,Ahmednagar,H-4(A) 27mm FIne,Aug,2019,4798
+2181,Ahmednagar,LRA,Aug,2019,4727
+2182,Ahmednagar,N-44,Aug,2019,4701
+2183,Ahmednagar,DCH-32(Unginned),Aug,2019,4524
+2184,Jalgaon,Varaxmi,Sep,2019,4557
+2185,Jalgaon,Desi,Sep,2019,4634
+2186,Jalgaon,Other,Sep,2019,4624
+2187,Jalgaon,H-4(A) 27mm FIne,Sep,2019,4792
+2188,Jalgaon,LRA,Sep,2019,4667
+2189,Jalgaon,N-44,Sep,2019,4639
+2190,Jalgaon,DCH-32(Unginned),Sep,2019,4524
+2191,Hingoli,Varaxmi,Sep,2019,4441
+2192,Hingoli,Desi,Sep,2019,4491
+2193,Hingoli,Other,Sep,2019,4483
+2194,Hingoli,H-4(A) 27mm FIne,Sep,2019,4632
+2195,Hingoli,LRA,Sep,2019,4503
+2196,Hingoli,N-44,Sep,2019,4491
+2197,Hingoli,DCH-32(Unginned),Sep,2019,4523
+2198,Vashim,Varaxmi,Sep,2019,4651
+2199,Vashim,Desi,Sep,2019,4696
+2200,Vashim,Other,Sep,2019,4659
+2201,Vashim,H-4(A) 27mm FIne,Sep,2019,4798
+2202,Vashim,LRA,Sep,2019,4727
+2203,Vashim,N-44,Sep,2019,4701
+2204,Vashim,DCH-32(Unginned),Sep,2019,4524
+2205,Gadchiroli,Varaxmi,Sep,2019,4646
+2206,Gadchiroli,Desi,Sep,2019,4666
+2207,Gadchiroli,Other,Sep,2019,4636
+2208,Gadchiroli,H-4(A) 27mm FIne,Sep,2019,4590
+2209,Gadchiroli,LRA,Sep,2019,4698
+2210,Gadchiroli,N-44,Sep,2019,4674
+2211,Gadchiroli,DCH-32(Unginned),Sep,2019,4523
+2212,Nandurbar,Varaxmi,Sep,2019,4035
+2213,Nandurbar,Desi,Sep,2019,4095
+2214,Nandurbar,Other,Sep,2019,4077
+2215,Nandurbar,H-4(A) 27mm FIne,Sep,2019,4232
+2216,Nandurbar,LRA,Sep,2019,4110
+2217,Nandurbar,N-44,Sep,2019,4097
+2218,Nandurbar,DCH-32(Unginned),Sep,2019,4283
+2219,Ahmednagar,Varaxmi,Sep,2019,4651
+2220,Ahmednagar,Desi,Sep,2019,4696
+2221,Ahmednagar,Other,Sep,2019,4659
+2222,Ahmednagar,H-4(A) 27mm FIne,Sep,2019,4798
+2223,Ahmednagar,LRA,Sep,2019,4727
+2224,Ahmednagar,N-44,Sep,2019,4701
+2225,Ahmednagar,DCH-32(Unginned),Sep,2019,4524
+2226,Jalgaon,Varaxmi,Oct,2019,4557
+2227,Jalgaon,Desi,Oct,2019,4634
+2228,Jalgaon,Other,Oct,2019,4624
+2229,Jalgaon,H-4(A) 27mm FIne,Oct,2019,4792
+2230,Jalgaon,LRA,Oct,2019,4667
+2231,Jalgaon,N-44,Oct,2019,4639
+2232,Jalgaon,DCH-32(Unginned),Oct,2019,4524
+2233,Hingoli,Varaxmi,Oct,2019,4441
+2234,Hingoli,Desi,Oct,2019,4491
+2235,Hingoli,Other,Oct,2019,4483
+2236,Hingoli,H-4(A) 27mm FIne,Oct,2019,4632
+2237,Hingoli,LRA,Oct,2019,4503
+2238,Hingoli,N-44,Oct,2019,4491
+2239,Hingoli,DCH-32(Unginned),Oct,2019,4523
+2240,Vashim,Varaxmi,Oct,2019,4651
+2241,Vashim,Desi,Oct,2019,4696
+2242,Vashim,Other,Oct,2019,4659
+2243,Vashim,H-4(A) 27mm FIne,Oct,2019,4798
+2244,Vashim,LRA,Oct,2019,4727
+2245,Vashim,N-44,Oct,2019,4701
+2246,Vashim,DCH-32(Unginned),Oct,2019,4524
+2247,Gadchiroli,Varaxmi,Oct,2019,4646
+2248,Gadchiroli,Desi,Oct,2019,4666
+2249,Gadchiroli,Other,Oct,2019,4636
+2250,Gadchiroli,H-4(A) 27mm FIne,Oct,2019,4590
+2251,Gadchiroli,LRA,Oct,2019,4698
+2252,Gadchiroli,N-44,Oct,2019,4674
+2253,Gadchiroli,DCH-32(Unginned),Oct,2019,4523
+2254,Nandurbar,Varaxmi,Oct,2019,4035
+2255,Nandurbar,Desi,Oct,2019,4095
+2256,Nandurbar,Other,Oct,2019,4077
+2257,Nandurbar,H-4(A) 27mm FIne,Oct,2019,4232
+2258,Nandurbar,LRA,Oct,2019,4110
+2259,Nandurbar,N-44,Oct,2019,4097
+2260,Nandurbar,DCH-32(Unginned),Oct,2019,4283
+2261,Ahmednagar,Varaxmi,Oct,2019,4651
+2262,Ahmednagar,Desi,Oct,2019,4696
+2263,Ahmednagar,Other,Oct,2019,4659
+2264,Ahmednagar,H-4(A) 27mm FIne,Oct,2019,4798
+2265,Ahmednagar,LRA,Oct,2019,4727
+2266,Ahmednagar,N-44,Oct,2019,4701
+2267,Ahmednagar,DCH-32(Unginned),Oct,2019,4524
+2268,Jalgaon,Varaxmi,Nov,2019,4312
+2269,Jalgaon,Desi,Nov,2019,4317
+2270,Jalgaon,Other,Nov,2019,4317
+2271,Jalgaon,H-4(A) 27mm FIne,Nov,2019,4315
+2272,Jalgaon,LRA,Nov,2019,4343
+2273,Jalgaon,N-44,Nov,2019,4344
+2274,Jalgaon,DCH-32(Unginned),Nov,2019,4368
+2275,Hingoli,Varaxmi,Nov,2019,4319
+2276,Hingoli,Desi,Nov,2019,4267
+2277,Hingoli,Other,Nov,2019,4267
+2278,Hingoli,H-4(A) 27mm FIne,Nov,2019,4211
+2279,Hingoli,LRA,Nov,2019,4276
+2280,Hingoli,N-44,Nov,2019,4269
+2281,Hingoli,DCH-32(Unginned),Nov,2019,4314
+2282,Vashim,Varaxmi,Nov,2019,4364
+2283,Vashim,Desi,Nov,2019,4365
+2284,Vashim,Other,Nov,2019,4351
+2285,Vashim,H-4(A) 27mm FIne,Nov,2019,4365
+2286,Vashim,LRA,Nov,2019,4367
+2287,Vashim,N-44,Nov,2019,4394
+2288,Vashim,DCH-32(Unginned),Nov,2019,4403
+2289,Gadchiroli,Varaxmi,Nov,2019,4495
+2290,Gadchiroli,Desi,Nov,2019,4460
+2291,Gadchiroli,Other,Nov,2019,4443
+2292,Gadchiroli,H-4(A) 27mm FIne,Nov,2019,4430
+2293,Gadchiroli,LRA,Nov,2019,4425
+2294,Gadchiroli,N-44,Nov,2019,4468
+2295,Gadchiroli,DCH-32(Unginned),Nov,2019,4416
+2296,Nandurbar,Varaxmi,Nov,2019,4190
+2297,Nandurbar,Desi,Nov,2019,4196
+2298,Nandurbar,Other,Nov,2019,4196
+2299,Nandurbar,H-4(A) 27mm FIne,Nov,2019,4198
+2300,Nandurbar,LRA,Nov,2019,4214
+2301,Nandurbar,N-44,Nov,2019,4209
+2302,Nandurbar,DCH-32(Unginned),Nov,2019,4289
+2303,Ahmednagar,Varaxmi,Nov,2019,4354
+2304,Ahmednagar,Desi,Nov,2019,4353
+2305,Ahmednagar,Other,Nov,2019,4350
+2306,Ahmednagar,H-4(A) 27mm FIne,Nov,2019,4350
+2307,Ahmednagar,LRA,Nov,2019,4359
+2308,Ahmednagar,N-44,Nov,2019,4386
+2309,Ahmednagar,DCH-32(Unginned),Nov,2019,4390
+2310,Jalgaon,Varaxmi,Dec,2019,4557
+2311,Jalgaon,Desi,Dec,2019,4634
+2312,Jalgaon,Other,Dec,2019,4624
+2313,Jalgaon,H-4(A) 27mm FIne,Dec,2019,4792
+2314,Jalgaon,LRA,Dec,2019,4667
+2315,Jalgaon,N-44,Dec,2019,4639
+2316,Jalgaon,DCH-32(Unginned),Dec,2019,4524
+2317,Hingoli,Varaxmi,Dec,2019,4441
+2318,Hingoli,Desi,Dec,2019,4491
+2319,Hingoli,Other,Dec,2019,4483
+2320,Hingoli,H-4(A) 27mm FIne,Dec,2019,4632
+2321,Hingoli,LRA,Dec,2019,4503
+2322,Hingoli,N-44,Dec,2019,4491
+2323,Hingoli,DCH-32(Unginned),Dec,2019,4523
+2324,Vashim,Varaxmi,Dec,2019,4651
+2325,Vashim,Desi,Dec,2019,4696
+2326,Vashim,Other,Dec,2019,4659
+2327,Vashim,H-4(A) 27mm FIne,Dec,2019,4798
+2328,Vashim,LRA,Dec,2019,4727
+2329,Vashim,N-44,Dec,2019,4701
+2330,Vashim,DCH-32(Unginned),Dec,2019,4524
+2331,Gadchiroli,Varaxmi,Dec,2019,4646
+2332,Gadchiroli,Desi,Dec,2019,4666
+2333,Gadchiroli,Other,Dec,2019,4636
+2334,Gadchiroli,H-4(A) 27mm FIne,Dec,2019,4590
+2335,Gadchiroli,LRA,Dec,2019,4698
+2336,Gadchiroli,N-44,Dec,2019,4674
+2337,Gadchiroli,DCH-32(Unginned),Dec,2019,4523
+2338,Nandurbar,Varaxmi,Dec,2019,4035
+2339,Nandurbar,Desi,Dec,2019,4095
+2340,Nandurbar,Other,Dec,2019,4077
+2341,Nandurbar,H-4(A) 27mm FIne,Dec,2019,4232
+2342,Nandurbar,LRA,Dec,2019,4110
+2343,Nandurbar,N-44,Dec,2019,4097
+2344,Nandurbar,DCH-32(Unginned),Dec,2019,4283
+2345,Ahmednagar,Varaxmi,Dec,2019,4651
+2346,Ahmednagar,Desi,Dec,2019,4696
+2347,Ahmednagar,Other,Dec,2019,4659
+2348,Ahmednagar,H-4(A) 27mm FIne,Dec,2019,4798
+2349,Ahmednagar,LRA,Dec,2019,4727
+2350,Ahmednagar,N-44,Dec,2019,4701
+2351,Ahmednagar,DCH-32(Unginned),Dec,2019,4524
+2352,Jalgaon,Varaxmi,Mar,2018,4551
+2353,Jalgaon,Desi,Mar,2018,4641
+2354,Jalgaon,Other,Mar,2018,4620
+2355,Jalgaon,H-4(A) 27mm FIne,Mar,2018,4748
+2356,Jalgaon,LRA,Mar,2018,4690
+2357,Jalgaon,N-44,Mar,2018,4648
+2358,Jalgaon,DCH-32(Unginned),Mar,2018,4458
+2359,Hingoli,Varaxmi,Mar,2018,4447
+2360,Hingoli,Desi,Mar,2018,4425
+2361,Hingoli,Other,Mar,2018,4412
+2362,Hingoli,H-4(A) 27mm FIne,Mar,2018,4367
+2363,Hingoli,LRA,Mar,2018,4446
+2364,Hingoli,N-44,Mar,2018,4428
+2365,Hingoli,DCH-32(Unginned),Mar,2018,4451
+2366,Vashim,Varaxmi,Mar,2018,4611
+2367,Vashim,Desi,Mar,2018,4689
+2368,Vashim,Other,Mar,2018,4644
+2369,Vashim,H-4(A) 27mm FIne,Mar,2018,4752
+2370,Vashim,LRA,Mar,2018,4732
+2371,Vashim,N-44,Mar,2018,4696
+2372,Vashim,DCH-32(Unginned),Mar,2018,4457
+2373,Gadchiroli,Varaxmi,Mar,2018,4611
+2374,Gadchiroli,Desi,Mar,2018,4677
+2375,Gadchiroli,Other,Mar,2018,4634
+2376,Gadchiroli,H-4(A) 27mm FIne,Mar,2018,4650
+2377,Gadchiroli,LRA,Mar,2018,4719
+2378,Gadchiroli,N-44,Mar,2018,4684
+2379,Gadchiroli,DCH-32(Unginned),Mar,2018,4457
+2380,Nandurbar,Varaxmi,Mar,2018,4069
+2381,Nandurbar,Desi,Mar,2018,4145
+2382,Nandurbar,Other,Mar,2018,4123
+2383,Nandurbar,H-4(A) 27mm FIne,Mar,2018,4261
+2384,Nandurbar,LRA,Mar,2018,4168
+2385,Nandurbar,N-44,Mar,2018,4149
+2386,Nandurbar,DCH-32(Unginned),Mar,2018,4256
+2387,Ahmednagar,Varaxmi,Mar,2018,4611
+2388,Ahmednagar,Desi,Mar,2018,4689
+2389,Ahmednagar,Other,Mar,2018,4644
+2390,Ahmednagar,H-4(A) 27mm FIne,Mar,2018,4752
+2391,Ahmednagar,LRA,Mar,2018,4732
+2392,Ahmednagar,N-44,Mar,2018,4696
+2393,Ahmednagar,DCH-32(Unginned),Mar,2018,4457
+2394,Jalgaon,Varaxmi,Apr,2018,4557
+2395,Jalgaon,Desi,Apr,2018,4634
+2396,Jalgaon,Other,Apr,2018,4624
+2397,Jalgaon,H-4(A) 27mm FIne,Apr,2018,4792
+2398,Jalgaon,LRA,Apr,2018,4667
+2399,Jalgaon,N-44,Apr,2018,4639
+2400,Jalgaon,DCH-32(Unginned),Apr,2018,4524
+2401,Hingoli,Varaxmi,Apr,2018,4441
+2402,Hingoli,Desi,Apr,2018,4491
+2403,Hingoli,Other,Apr,2018,4483
+2404,Hingoli,H-4(A) 27mm FIne,Apr,2018,4632
+2405,Hingoli,LRA,Apr,2018,4503
+2406,Hingoli,N-44,Apr,2018,4491
+2407,Hingoli,DCH-32(Unginned),Apr,2018,4523
+2408,Vashim,Varaxmi,Apr,2018,4651
+2409,Vashim,Desi,Apr,2018,4696
+2410,Vashim,Other,Apr,2018,4659
+2411,Vashim,H-4(A) 27mm FIne,Apr,2018,4798
+2412,Vashim,LRA,Apr,2018,4727
+2413,Vashim,N-44,Apr,2018,4701
+2414,Vashim,DCH-32(Unginned),Apr,2018,4524
+2415,Gadchiroli,Varaxmi,Apr,2018,4646
+2416,Gadchiroli,Desi,Apr,2018,4666
+2417,Gadchiroli,Other,Apr,2018,4636
+2418,Gadchiroli,H-4(A) 27mm FIne,Apr,2018,4590
+2419,Gadchiroli,LRA,Apr,2018,4698
+2420,Gadchiroli,N-44,Apr,2018,4674
+2421,Gadchiroli,DCH-32(Unginned),Apr,2018,4523
+2422,Nandurbar,Varaxmi,Apr,2018,4035
+2423,Nandurbar,Desi,Apr,2018,4095
+2424,Nandurbar,Other,Apr,2018,4077
+2425,Nandurbar,H-4(A) 27mm FIne,Apr,2018,4232
+2426,Nandurbar,LRA,Apr,2018,4110
+2427,Nandurbar,N-44,Apr,2018,4097
+2428,Nandurbar,DCH-32(Unginned),Apr,2018,4283
+2429,Ahmednagar,Varaxmi,Apr,2018,4651
+2430,Ahmednagar,Desi,Apr,2018,4696
+2431,Ahmednagar,Other,Apr,2018,4659
+2432,Ahmednagar,H-4(A) 27mm FIne,Apr,2018,4798
+2433,Ahmednagar,LRA,Apr,2018,4727
+2434,Ahmednagar,N-44,Apr,2018,4701
+2435,Ahmednagar,DCH-32(Unginned),Apr,2018,4524
+2436,Jalgaon,Varaxmi,May,2018,4557
+2437,Jalgaon,Desi,May,2018,4634
+2438,Jalgaon,Other,May,2018,4624
+2439,Jalgaon,H-4(A) 27mm FIne,May,2018,4792
+2440,Jalgaon,LRA,May,2018,4667
+2441,Jalgaon,N-44,May,2018,4639
+2442,Jalgaon,DCH-32(Unginned),May,2018,4524
+2443,Hingoli,Varaxmi,May,2018,4441
+2444,Hingoli,Desi,May,2018,4491
+2445,Hingoli,Other,May,2018,4483
+2446,Hingoli,H-4(A) 27mm FIne,May,2018,4632
+2447,Hingoli,LRA,May,2018,4503
+2448,Hingoli,N-44,May,2018,4491
+2449,Hingoli,DCH-32(Unginned),May,2018,4523
+2450,Vashim,Varaxmi,May,2018,4651
+2451,Vashim,Desi,May,2018,4696
+2452,Vashim,Other,May,2018,4659
+2453,Vashim,H-4(A) 27mm FIne,May,2018,4798
+2454,Vashim,LRA,May,2018,4727
+2455,Vashim,N-44,May,2018,4701
+2456,Vashim,DCH-32(Unginned),May,2018,4524
+2457,Gadchiroli,Varaxmi,May,2018,4646
+2458,Gadchiroli,Desi,May,2018,4666
+2459,Gadchiroli,Other,May,2018,4636
+2460,Gadchiroli,H-4(A) 27mm FIne,May,2018,4590
+2461,Gadchiroli,LRA,May,2018,4698
+2462,Gadchiroli,N-44,May,2018,4674
+2463,Gadchiroli,DCH-32(Unginned),May,2018,4523
+2464,Nandurbar,Varaxmi,May,2018,4035
+2465,Nandurbar,Desi,May,2018,4095
+2466,Nandurbar,Other,May,2018,4077
+2467,Nandurbar,H-4(A) 27mm FIne,May,2018,4232
+2468,Nandurbar,LRA,May,2018,4110
+2469,Nandurbar,N-44,May,2018,4097
+2470,Nandurbar,DCH-32(Unginned),May,2018,4283
+2471,Ahmednagar,Varaxmi,May,2018,4651
+2472,Ahmednagar,Desi,May,2018,4696
+2473,Ahmednagar,Other,May,2018,4659
+2474,Ahmednagar,H-4(A) 27mm FIne,May,2018,4798
+2475,Ahmednagar,LRA,May,2018,4727
+2476,Ahmednagar,N-44,May,2018,4701
+2477,Ahmednagar,DCH-32(Unginned),May,2018,4524
+2478,Jalgaon,Varaxmi,Jun,2018,4557
+2479,Jalgaon,Desi,Jun,2018,4634
+2480,Jalgaon,Other,Jun,2018,4624
+2481,Jalgaon,H-4(A) 27mm FIne,Jun,2018,4792
+2482,Jalgaon,LRA,Jun,2018,4667
+2483,Jalgaon,N-44,Jun,2018,4639
+2484,Jalgaon,DCH-32(Unginned),Jun,2018,4524
+2485,Hingoli,Varaxmi,Jun,2018,4441
+2486,Hingoli,Desi,Jun,2018,4491
+2487,Hingoli,Other,Jun,2018,4483
+2488,Hingoli,H-4(A) 27mm FIne,Jun,2018,4632
+2489,Hingoli,LRA,Jun,2018,4503
+2490,Hingoli,N-44,Jun,2018,4491
+2491,Hingoli,DCH-32(Unginned),Jun,2018,4523
+2492,Vashim,Varaxmi,Jun,2018,4651
+2493,Vashim,Desi,Jun,2018,4696
+2494,Vashim,Other,Jun,2018,4659
+2495,Vashim,H-4(A) 27mm FIne,Jun,2018,4798
+2496,Vashim,LRA,Jun,2018,4727
+2497,Vashim,N-44,Jun,2018,4701
+2498,Vashim,DCH-32(Unginned),Jun,2018,4524
+2499,Gadchiroli,Varaxmi,Jun,2018,4646
+2500,Gadchiroli,Desi,Jun,2018,4666
+2501,Gadchiroli,Other,Jun,2018,4636
+2502,Gadchiroli,H-4(A) 27mm FIne,Jun,2018,4590
+2503,Gadchiroli,LRA,Jun,2018,4698
+2504,Gadchiroli,N-44,Jun,2018,4674
+2505,Gadchiroli,DCH-32(Unginned),Jun,2018,4523
+2506,Nandurbar,Varaxmi,Jun,2018,4035
+2507,Nandurbar,Desi,Jun,2018,4095
+2508,Nandurbar,Other,Jun,2018,4077
+2509,Nandurbar,H-4(A) 27mm FIne,Jun,2018,4232
+2510,Nandurbar,LRA,Jun,2018,4110
+2511,Nandurbar,N-44,Jun,2018,4097
+2512,Nandurbar,DCH-32(Unginned),Jun,2018,4283
+2513,Ahmednagar,Varaxmi,Jun,2018,4651
+2514,Ahmednagar,Desi,Jun,2018,4696
+2515,Ahmednagar,Other,Jun,2018,4659
+2516,Ahmednagar,H-4(A) 27mm FIne,Jun,2018,4798
+2517,Ahmednagar,LRA,Jun,2018,4727
+2518,Ahmednagar,N-44,Jun,2018,4701
+2519,Ahmednagar,DCH-32(Unginned),Jun,2018,4524
+2520,Jalgaon,Varaxmi,Jul,2018,4805
+2521,Jalgaon,Desi,Jul,2018,4909
+2522,Jalgaon,Other,Jul,2018,4901
+2523,Jalgaon,H-4(A) 27mm FIne,Jul,2018,4904
+2524,Jalgaon,LRA,Jul,2018,5029
+2525,Jalgaon,N-44,Jul,2018,4918
+2526,Jalgaon,DCH-32(Unginned),Jul,2018,4909
+2527,Hingoli,Varaxmi,Jul,2018,4880
+2528,Hingoli,Desi,Jul,2018,5014
+2529,Hingoli,Other,Jul,2018,4974
+2530,Hingoli,H-4(A) 27mm FIne,Jul,2018,5038
+2531,Hingoli,LRA,Jul,2018,5053
+2532,Hingoli,N-44,Jul,2018,5013
+2533,Hingoli,DCH-32(Unginned),Jul,2018,5000
+2534,Vashim,Varaxmi,Jul,2018,4879
+2535,Vashim,Desi,Jul,2018,4975
+2536,Vashim,Other,Jul,2018,4936
+2537,Vashim,H-4(A) 27mm FIne,Jul,2018,4969
+2538,Vashim,LRA,Jul,2018,5050
+2539,Vashim,N-44,Jul,2018,4987
+2540,Vashim,DCH-32(Unginned),Jul,2018,4963
+2541,Gadchiroli,Varaxmi,Jul,2018,4542
+2542,Gadchiroli,Desi,Jul,2018,4501
+2543,Gadchiroli,Other,Jul,2018,4501
+2544,Gadchiroli,H-4(A) 27mm FIne,Jul,2018,4500
+2545,Gadchiroli,LRA,Jul,2018,4557
+2546,Gadchiroli,N-44,Jul,2018,4501
+2547,Gadchiroli,DCH-32(Unginned),Jul,2018,4501
+2548,Nandurbar,Varaxmi,Jul,2018,4181
+2549,Nandurbar,Desi,Jul,2018,4257
+2550,Nandurbar,Other,Jul,2018,4254
+2551,Nandurbar,H-4(A) 27mm FIne,Jul,2018,4256
+2552,Nandurbar,LRA,Jul,2018,4318
+2553,Nandurbar,N-44,Jul,2018,4258
+2554,Nandurbar,DCH-32(Unginned),Jul,2018,4256
+2555,Ahmednagar,Varaxmi,Jul,2018,4879
+2556,Ahmednagar,Desi,Jul,2018,4975
+2557,Ahmednagar,Other,Jul,2018,4936
+2558,Ahmednagar,H-4(A) 27mm FIne,Jul,2018,4969
+2559,Ahmednagar,LRA,Jul,2018,5050
+2560,Ahmednagar,N-44,Jul,2018,4987
+2561,Ahmednagar,DCH-32(Unginned),Jul,2018,4963
+2562,Jalgaon,Varaxmi,Aug,2018,4557
+2563,Jalgaon,Desi,Aug,2018,4634
+2564,Jalgaon,Other,Aug,2018,4624
+2565,Jalgaon,H-4(A) 27mm FIne,Aug,2018,4792
+2566,Jalgaon,LRA,Aug,2018,4667
+2567,Jalgaon,N-44,Aug,2018,4639
+2568,Jalgaon,DCH-32(Unginned),Aug,2018,4524
+2569,Hingoli,Varaxmi,Aug,2018,4441
+2570,Hingoli,Desi,Aug,2018,4491
+2571,Hingoli,Other,Aug,2018,4483
+2572,Hingoli,H-4(A) 27mm FIne,Aug,2018,4632
+2573,Hingoli,LRA,Aug,2018,4503
+2574,Hingoli,N-44,Aug,2018,4491
+2575,Hingoli,DCH-32(Unginned),Aug,2018,4523
+2576,Vashim,Varaxmi,Aug,2018,4651
+2577,Vashim,Desi,Aug,2018,4696
+2578,Vashim,Other,Aug,2018,4659
+2579,Vashim,H-4(A) 27mm FIne,Aug,2018,4798
+2580,Vashim,LRA,Aug,2018,4727
+2581,Vashim,N-44,Aug,2018,4701
+2582,Vashim,DCH-32(Unginned),Aug,2018,4524
+2583,Gadchiroli,Varaxmi,Aug,2018,4646
+2584,Gadchiroli,Desi,Aug,2018,4666
+2585,Gadchiroli,Other,Aug,2018,4636
+2586,Gadchiroli,H-4(A) 27mm FIne,Aug,2018,4590
+2587,Gadchiroli,LRA,Aug,2018,4698
+2588,Gadchiroli,N-44,Aug,2018,4674
+2589,Gadchiroli,DCH-32(Unginned),Aug,2018,4523
+2590,Nandurbar,Varaxmi,Aug,2018,4035
+2591,Nandurbar,Desi,Aug,2018,4095
+2592,Nandurbar,Other,Aug,2018,4077
+2593,Nandurbar,H-4(A) 27mm FIne,Aug,2018,4232
+2594,Nandurbar,LRA,Aug,2018,4110
+2595,Nandurbar,N-44,Aug,2018,4097
+2596,Nandurbar,DCH-32(Unginned),Aug,2018,4283
+2597,Ahmednagar,Varaxmi,Aug,2018,4651
+2598,Ahmednagar,Desi,Aug,2018,4696
+2599,Ahmednagar,Other,Aug,2018,4659
+2600,Ahmednagar,H-4(A) 27mm FIne,Aug,2018,4798
+2601,Ahmednagar,LRA,Aug,2018,4727
+2602,Ahmednagar,N-44,Aug,2018,4701
+2603,Ahmednagar,DCH-32(Unginned),Aug,2018,4524
+2604,Jalgaon,Varaxmi,Sep,2018,4557
+2605,Jalgaon,Desi,Sep,2018,4634
+2606,Jalgaon,Other,Sep,2018,4624
+2607,Jalgaon,H-4(A) 27mm FIne,Sep,2018,4792
+2608,Jalgaon,LRA,Sep,2018,4667
+2609,Jalgaon,N-44,Sep,2018,4639
+2610,Jalgaon,DCH-32(Unginned),Sep,2018,4524
+2611,Hingoli,Varaxmi,Sep,2018,4441
+2612,Hingoli,Desi,Sep,2018,4491
+2613,Hingoli,Other,Sep,2018,4483
+2614,Hingoli,H-4(A) 27mm FIne,Sep,2018,4632
+2615,Hingoli,LRA,Sep,2018,4503
+2616,Hingoli,N-44,Sep,2018,4491
+2617,Hingoli,DCH-32(Unginned),Sep,2018,4523
+2618,Vashim,Varaxmi,Sep,2018,4651
+2619,Vashim,Desi,Sep,2018,4696
+2620,Vashim,Other,Sep,2018,4659
+2621,Vashim,H-4(A) 27mm FIne,Sep,2018,4798
+2622,Vashim,LRA,Sep,2018,4727
+2623,Vashim,N-44,Sep,2018,4701
+2624,Vashim,DCH-32(Unginned),Sep,2018,4524
+2625,Gadchiroli,Varaxmi,Sep,2018,4646
+2626,Gadchiroli,Desi,Sep,2018,4666
+2627,Gadchiroli,Other,Sep,2018,4636
+2628,Gadchiroli,H-4(A) 27mm FIne,Sep,2018,4590
+2629,Gadchiroli,LRA,Sep,2018,4698
+2630,Gadchiroli,N-44,Sep,2018,4674
+2631,Gadchiroli,DCH-32(Unginned),Sep,2018,4523
+2632,Nandurbar,Varaxmi,Sep,2018,4035
+2633,Nandurbar,Desi,Sep,2018,4095
+2634,Nandurbar,Other,Sep,2018,4077
+2635,Nandurbar,H-4(A) 27mm FIne,Sep,2018,4232
+2636,Nandurbar,LRA,Sep,2018,4110
+2637,Nandurbar,N-44,Sep,2018,4097
+2638,Nandurbar,DCH-32(Unginned),Sep,2018,4283
+2639,Ahmednagar,Varaxmi,Sep,2018,4651
+2640,Ahmednagar,Desi,Sep,2018,4696
+2641,Ahmednagar,Other,Sep,2018,4659
+2642,Ahmednagar,H-4(A) 27mm FIne,Sep,2018,4798
+2643,Ahmednagar,LRA,Sep,2018,4727
+2644,Ahmednagar,N-44,Sep,2018,4701
+2645,Ahmednagar,DCH-32(Unginned),Sep,2018,4524
+2646,Jalgaon,Varaxmi,Oct,2018,4557
+2647,Jalgaon,Desi,Oct,2018,4634
+2648,Jalgaon,Other,Oct,2018,4624
+2649,Jalgaon,H-4(A) 27mm FIne,Oct,2018,4792
+2650,Jalgaon,LRA,Oct,2018,4667
+2651,Jalgaon,N-44,Oct,2018,4639
+2652,Jalgaon,DCH-32(Unginned),Oct,2018,4524
+2653,Hingoli,Varaxmi,Oct,2018,4441
+2654,Hingoli,Desi,Oct,2018,4491
+2655,Hingoli,Other,Oct,2018,4483
+2656,Hingoli,H-4(A) 27mm FIne,Oct,2018,4632
+2657,Hingoli,LRA,Oct,2018,4503
+2658,Hingoli,N-44,Oct,2018,4491
+2659,Hingoli,DCH-32(Unginned),Oct,2018,4523
+2660,Vashim,Varaxmi,Oct,2018,4651
+2661,Vashim,Desi,Oct,2018,4696
+2662,Vashim,Other,Oct,2018,4659
+2663,Vashim,H-4(A) 27mm FIne,Oct,2018,4798
+2664,Vashim,LRA,Oct,2018,4727
+2665,Vashim,N-44,Oct,2018,4701
+2666,Vashim,DCH-32(Unginned),Oct,2018,4524
+2667,Gadchiroli,Varaxmi,Oct,2018,4646
+2668,Gadchiroli,Desi,Oct,2018,4666
+2669,Gadchiroli,Other,Oct,2018,4636
+2670,Gadchiroli,H-4(A) 27mm FIne,Oct,2018,4590
+2671,Gadchiroli,LRA,Oct,2018,4698
+2672,Gadchiroli,N-44,Oct,2018,4674
+2673,Gadchiroli,DCH-32(Unginned),Oct,2018,4523
+2674,Nandurbar,Varaxmi,Oct,2018,4035
+2675,Nandurbar,Desi,Oct,2018,4095
+2676,Nandurbar,Other,Oct,2018,4077
+2677,Nandurbar,H-4(A) 27mm FIne,Oct,2018,4232
+2678,Nandurbar,LRA,Oct,2018,4110
+2679,Nandurbar,N-44,Oct,2018,4097
+2680,Nandurbar,DCH-32(Unginned),Oct,2018,4283
+2681,Ahmednagar,Varaxmi,Oct,2018,4651
+2682,Ahmednagar,Desi,Oct,2018,4696
+2683,Ahmednagar,Other,Oct,2018,4659
+2684,Ahmednagar,H-4(A) 27mm FIne,Oct,2018,4798
+2685,Ahmednagar,LRA,Oct,2018,4727
+2686,Ahmednagar,N-44,Oct,2018,4701
+2687,Ahmednagar,DCH-32(Unginned),Oct,2018,4524
+2688,Jalgaon,Varaxmi,Nov,2018,4312
+2689,Jalgaon,Desi,Nov,2018,4317
+2690,Jalgaon,Other,Nov,2018,4317
+2691,Jalgaon,H-4(A) 27mm FIne,Nov,2018,4315
+2692,Jalgaon,LRA,Nov,2018,4343
+2693,Jalgaon,N-44,Nov,2018,4344
+2694,Jalgaon,DCH-32(Unginned),Nov,2018,4368
+2695,Hingoli,Varaxmi,Nov,2018,4319
+2696,Hingoli,Desi,Nov,2018,4267
+2697,Hingoli,Other,Nov,2018,4267
+2698,Hingoli,H-4(A) 27mm FIne,Nov,2018,4211
+2699,Hingoli,LRA,Nov,2018,4276
+2700,Hingoli,N-44,Nov,2018,4269
+2701,Hingoli,DCH-32(Unginned),Nov,2018,4314
+2702,Vashim,Varaxmi,Nov,2018,4364
+2703,Vashim,Desi,Nov,2018,4365
+2704,Vashim,Other,Nov,2018,4351
+2705,Vashim,H-4(A) 27mm FIne,Nov,2018,4365
+2706,Vashim,LRA,Nov,2018,4367
+2707,Vashim,N-44,Nov,2018,4394
+2708,Vashim,DCH-32(Unginned),Nov,2018,4403
+2709,Gadchiroli,Varaxmi,Nov,2018,4495
+2710,Gadchiroli,Desi,Nov,2018,4460
+2711,Gadchiroli,Other,Nov,2018,4443
+2712,Gadchiroli,H-4(A) 27mm FIne,Nov,2018,4430
+2713,Gadchiroli,LRA,Nov,2018,4425
+2714,Gadchiroli,N-44,Nov,2018,4468
+2715,Gadchiroli,DCH-32(Unginned),Nov,2018,4416
+2716,Nandurbar,Varaxmi,Nov,2018,4190
+2717,Nandurbar,Desi,Nov,2018,4196
+2718,Nandurbar,Other,Nov,2018,4196
+2719,Nandurbar,H-4(A) 27mm FIne,Nov,2018,4198
+2720,Nandurbar,LRA,Nov,2018,4214
+2721,Nandurbar,N-44,Nov,2018,4209
+2722,Nandurbar,DCH-32(Unginned),Nov,2018,4289
+2723,Ahmednagar,Varaxmi,Nov,2018,4354
+2724,Ahmednagar,Desi,Nov,2018,4353
+2725,Ahmednagar,Other,Nov,2018,4350
+2726,Ahmednagar,H-4(A) 27mm FIne,Nov,2018,4350
+2727,Ahmednagar,LRA,Nov,2018,4359
+2728,Ahmednagar,N-44,Nov,2018,4386
+2729,Ahmednagar,DCH-32(Unginned),Nov,2018,4390
+2730,Jalgaon,Varaxmi,Dec,2018,4557
+2731,Jalgaon,Desi,Dec,2018,4634
+2732,Jalgaon,Other,Dec,2018,4624
+2733,Jalgaon,H-4(A) 27mm FIne,Dec,2018,4792
+2734,Jalgaon,LRA,Dec,2018,4667
+2735,Jalgaon,N-44,Dec,2018,4639
+2736,Jalgaon,DCH-32(Unginned),Dec,2018,4524
+2737,Hingoli,Varaxmi,Dec,2018,4441
+2738,Hingoli,Desi,Dec,2018,4491
+2739,Hingoli,Other,Dec,2018,4483
+2740,Hingoli,H-4(A) 27mm FIne,Dec,2018,4632
+2741,Hingoli,LRA,Dec,2018,4503
+2742,Hingoli,N-44,Dec,2018,4491
+2743,Hingoli,DCH-32(Unginned),Dec,2018,4523
+2744,Vashim,Varaxmi,Dec,2018,4651
+2745,Vashim,Desi,Dec,2018,4696
+2746,Vashim,Other,Dec,2018,4659
+2747,Vashim,H-4(A) 27mm FIne,Dec,2018,4798
+2748,Vashim,LRA,Dec,2018,4727
+2749,Vashim,N-44,Dec,2018,4701
+2750,Vashim,DCH-32(Unginned),Dec,2018,4524
+2751,Gadchiroli,Varaxmi,Dec,2018,4646
+2752,Gadchiroli,Desi,Dec,2018,4666
+2753,Gadchiroli,Other,Dec,2018,4636
+2754,Gadchiroli,H-4(A) 27mm FIne,Dec,2018,4590
+2755,Gadchiroli,LRA,Dec,2018,4698
+2756,Gadchiroli,N-44,Dec,2018,4674
+2757,Gadchiroli,DCH-32(Unginned),Dec,2018,4523
+2758,Nandurbar,Varaxmi,Dec,2018,4035
+2759,Nandurbar,Desi,Dec,2018,4095
+2760,Nandurbar,Other,Dec,2018,4077
+2761,Nandurbar,H-4(A) 27mm FIne,Dec,2018,4232
+2762,Nandurbar,LRA,Dec,2018,4110
+2763,Nandurbar,N-44,Dec,2018,4097
+2764,Nandurbar,DCH-32(Unginned),Dec,2018,4283
+2765,Ahmednagar,Varaxmi,Dec,2018,4651
+2766,Ahmednagar,Desi,Dec,2018,4696
+2767,Ahmednagar,Other,Dec,2018,4659
+2768,Ahmednagar,H-4(A) 27mm FIne,Dec,2018,4798
+2769,Ahmednagar,LRA,Dec,2018,4727
+2770,Ahmednagar,N-44,Dec,2018,4701
+2771,Ahmednagar,DCH-32(Unginned),Dec,2018,4524
+2772,Pune,Varaxmi,Jan,2019,4695
+2773,Pune,Desi,Jan,2019,4711
+2774,Pune,Other,Jan,2019,4678
+2775,Pune,H-4(A) 27mm FIne,Jan,2019,4850
+2776,Pune,LRA,Jan,2019,4725
+2777,Pune,N-44,Jan,2019,4715
+2778,Pune,DCH-32(Unginned),Jan,2019,4587
+2779,Dhule,Varaxmi,Jan,2019,4695
+2780,Dhule,Desi,Jan,2019,4711
+2781,Dhule,Other,Jan,2019,4678
+2782,Dhule,H-4(A) 27mm FIne,Jan,2019,4850
+2783,Dhule,LRA,Jan,2019,4725
+2784,Dhule,N-44,Jan,2019,4715
+2785,Dhule,DCH-32(Unginned),Jan,2019,4587
+2786,Pune,Varaxmi,Feb,2019,4651
+2787,Pune,Desi,Feb,2019,4696
+2788,Pune,Other,Feb,2019,4659
+2789,Pune,H-4(A) 27mm FIne,Feb,2019,4798
+2790,Pune,LRA,Feb,2019,4727
+2791,Pune,N-44,Feb,2019,4701
+2792,Pune,DCH-32(Unginned),Feb,2019,4524
+2793,Dhule,Varaxmi,Feb,2019,4651
+2794,Dhule,Desi,Feb,2019,4696
+2795,Dhule,Other,Feb,2019,4659
+2796,Dhule,H-4(A) 27mm FIne,Feb,2019,4798
+2797,Dhule,LRA,Feb,2019,4727
+2798,Dhule,N-44,Feb,2019,4701
+2799,Dhule,DCH-32(Unginned),Feb,2019,4524
+2800,Pune,Varaxmi,Mar,2019,4611
+2801,Pune,Desi,Mar,2019,4689
+2802,Pune,Other,Mar,2019,4644
+2803,Pune,H-4(A) 27mm FIne,Mar,2019,4752
+2804,Pune,LRA,Mar,2019,4732
+2805,Pune,N-44,Mar,2019,4696
+2806,Pune,DCH-32(Unginned),Mar,2019,4457
+2807,Dhule,Varaxmi,Mar,2019,4611
+2808,Dhule,Desi,Mar,2019,4689
+2809,Dhule,Other,Mar,2019,4644
+2810,Dhule,H-4(A) 27mm FIne,Mar,2019,4752
+2811,Dhule,LRA,Mar,2019,4732
+2812,Dhule,N-44,Mar,2019,4696
+2813,Dhule,DCH-32(Unginned),Mar,2019,4457
+2814,Pune,Varaxmi,Apr,2019,4651
+2815,Pune,Desi,Apr,2019,4696
+2816,Pune,Other,Apr,2019,4659
+2817,Pune,H-4(A) 27mm FIne,Apr,2019,4798
+2818,Pune,LRA,Apr,2019,4727
+2819,Pune,N-44,Apr,2019,4701
+2820,Pune,DCH-32(Unginned),Apr,2019,4524
+2821,Dhule,Varaxmi,Apr,2019,4651
+2822,Dhule,Desi,Apr,2019,4696
+2823,Dhule,Other,Apr,2019,4659
+2824,Dhule,H-4(A) 27mm FIne,Apr,2019,4798
+2825,Dhule,LRA,Apr,2019,4727
+2826,Dhule,N-44,Apr,2019,4701
+2827,Dhule,DCH-32(Unginned),Apr,2019,4524
+2828,Pune,Varaxmi,May,2019,4651
+2829,Pune,Desi,May,2019,4696
+2830,Pune,Other,May,2019,4659
+2831,Pune,H-4(A) 27mm FIne,May,2019,4798
+2832,Pune,LRA,May,2019,4727
+2833,Pune,N-44,May,2019,4701
+2834,Pune,DCH-32(Unginned),May,2019,4524
+2835,Dhule,Varaxmi,May,2019,4651
+2836,Dhule,Desi,May,2019,4696
+2837,Dhule,Other,May,2019,4659
+2838,Dhule,H-4(A) 27mm FIne,May,2019,4798
+2839,Dhule,LRA,May,2019,4727
+2840,Dhule,N-44,May,2019,4701
+2841,Dhule,DCH-32(Unginned),May,2019,4524
+2842,Pune,Varaxmi,June,2019,4651
+2843,Pune,Desi,Jun,2019,4696
+2844,Pune,Other,Jun,2019,4659
+2845,Pune,H-4(A) 27mm FIne,Jun,2019,4798
+2846,Pune,LRA,Jun,2019,4727
+2847,Pune,N-44,Jun,2019,4701
+2848,Pune,DCH-32(Unginned),Jun,2019,4524
+2849,Dhule,Varaxmi,Jun,2019,4651
+2850,Dhule,Desi,Jun,2019,4696
+2851,Dhule,Other,Jun,2019,4659
+2852,Dhule,H-4(A) 27mm FIne,Jun,2019,4798
+2853,Dhule,LRA,Jun,2019,4727
+2854,Dhule,N-44,Jun,2019,4701
+2855,Dhule,DCH-32(Unginned),Jun,2019,4524
+2856,Pune,Varaxmi,Jul,2019,4879
+2857,Pune,Desi,Jul,2019,4975
+2858,Pune,Other,Jul,2019,4936
+2859,Pune,H-4(A) 27mm FIne,Jul,2019,4969
+2860,Pune,LRA,Jul,2019,5050
+2861,Pune,N-44,Jul,2019,4987
+2862,Pune,DCH-32(Unginned),Jul,2019,4963
+2863,Dhule,Varaxmi,Jul,2019,4879
+2864,Dhule,Desi,Jul,2019,4975
+2865,Dhule,Other,Jul,2019,4936
+2866,Dhule,H-4(A) 27mm FIne,Jul,2019,4969
+2867,Dhule,LRA,Jul,2019,5050
+2868,Dhule,N-44,Jul,2019,4987
+2869,Dhule,DCH-32(Unginned),Jul,2019,4963
+2870,Pune,Varaxmi,Aug,2019,4651
+2871,Pune,Desi,Aug,2019,4696
+2872,Pune,Other,Aug,2019,4659
+2873,Pune,H-4(A) 27mm FIne,Aug,2019,4798
+2874,Pune,LRA,Aug,2019,4727
+2875,Pune,N-44,Aug,2019,4701
+2876,Pune,DCH-32(Unginned),Aug,2019,4524
+2877,Dhule,Varaxmi,Aug,2019,4651
+2878,Dhule,Desi,Aug,2019,4696
+2879,Dhule,Other,Aug,2019,4659
+2880,Dhule,H-4(A) 27mm FIne,Aug,2019,4798
+2881,Dhule,LRA,Aug,2019,4727
+2882,Dhule,N-44,Aug,2019,4701
+2883,Dhule,DCH-32(Unginned),Aug,2019,4524
+2884,Pune,Varaxmi,Sep,2019,4651
+2885,Pune,Desi,Sep,2019,4696
+2886,Pune,Other,Sep,2019,4659
+2887,Pune,H-4(A) 27mm FIne,Sep,2019,4798
+2888,Pune,LRA,Sep,2019,4727
+2889,Pune,N-44,Sep,2019,4701
+2890,Pune,DCH-32(Unginned),Sep,2019,4524
+2891,Dhule,Varaxmi,Sep,2019,4651
+2892,Dhule,Desi,Sep,2019,4696
+2893,Dhule,Other,Sep,2019,4659
+2894,Dhule,H-4(A) 27mm FIne,Sep,2019,4798
+2895,Dhule,LRA,Sep,2019,4727
+2896,Dhule,N-44,Sep,2019,4701
+2897,Dhule,DCH-32(Unginned),Sep,2019,4524
+2898,Pune,Varaxmi,Oct,2019,4651
+2899,Pune,Desi,Oct,2019,4696
+2900,Pune,Other,Oct,2019,4659
+2901,Pune,H-4(A) 27mm FIne,Oct,2019,4798
+2902,Pune,LRA,Oct,2019,4727
+2903,Pune,N-44,Oct,2019,4701
+2904,Pune,DCH-32(Unginned),Oct,2019,4524
+2905,Dhule,Varaxmi,Oct,2019,4651
+2906,Dhule,Desi,Oct,2019,4696
+2907,Dhule,Other,Oct,2019,4659
+2908,Dhule,H-4(A) 27mm FIne,Oct,2019,4798
+2909,Dhule,LRA,Oct,2019,4727
+2910,Dhule,N-44,Oct,2019,4701
+2911,Dhule,DCH-32(Unginned),Oct,2019,4524
+2912,Pune,Varaxmi,Nov,2019,4364
+2913,Pune,Desi,Nov,2019,4365
+2914,Pune,Other,Nov,2019,4351
+2915,Pune,H-4(A) 27mm FIne,Nov,2019,4365
+2916,Pune,LRA,Nov,2019,4367
+2917,Pune,N-44,Nov,2019,4394
+2918,Pune,DCH-32(Unginned),Nov,2019,4403
+2919,Dhule,Varaxmi,Nov,2019,4364
+2920,Dhule,Desi,Nov,2019,4365
+2921,Dhule,Other,Nov,2019,4351
+2922,Dhule,H-4(A) 27mm FIne,Nov,2019,4365
+2923,Dhule,LRA,Nov,2019,4367
+2924,Dhule,N-44,Nov,2019,4394
+2925,Dhule,DCH-32(Unginned),Nov,2019,4403
+2926,Pune,Varaxmi,Dec,2019,4651
+2927,Pune,Desi,Dec,2019,4696
+2928,Pune,Other,Dec,2019,4659
+2929,Pune,H-4(A) 27mm FIne,Dec,2019,4798
+2930,Pune,LRA,Dec,2019,4727
+2931,Pune,N-44,Dec,2019,4701
+2932,Pune,DCH-32(Unginned),Dec,2019,4524
+2933,Dhule,Varaxmi,Dec,2019,4651
+2934,Dhule,Desi,Dec,2019,4696
+2935,Dhule,Other,Dec,2019,4659
+2936,Dhule,H-4(A) 27mm FIne,Dec,2019,4798
+2937,Dhule,LRA,Dec,2019,4727
+2938,Dhule,N-44,Dec,2019,4701
+2939,Dhule,DCH-32(Unginned),Dec,2019,4524
+2940,Pune,Varaxmi,Mar,2018,4611
+2941,Pune,Desi,Mar,2018,4689
+2942,Pune,Other,Mar,2018,4644
+2943,Pune,H-4(A) 27mm FIne,Mar,2018,4752
+2944,Pune,LRA,Mar,2018,4732
+2945,Pune,N-44,Mar,2018,4696
+2946,Pune,DCH-32(Unginned),Mar,2018,4457
+2947,Dhule,Varaxmi,Mar,2018,4611
+2948,Dhule,Desi,Mar,2018,4689
+2949,Dhule,Other,Mar,2018,4644
+2950,Dhule,H-4(A) 27mm FIne,Mar,2018,4752
+2951,Dhule,LRA,Mar,2018,4732
+2952,Dhule,N-44,Mar,2018,4696
+2953,Dhule,DCH-32(Unginned),Mar,2018,4457
+2954,Pune,Varaxmi,Apr,2018,4651
+2955,Pune,Desi,Apr,2018,4696
+2956,Pune,Other,Apr,2018,4659
+2957,Pune,H-4(A) 27mm FIne,Apr,2018,4798
+2958,Pune,LRA,Apr,2018,4727
+2959,Pune,N-44,Apr,2018,4701
+2960,Pune,DCH-32(Unginned),Apr,2018,4524
+2961,Dhule,Varaxmi,Apr,2018,4651
+2962,Dhule,Desi,Apr,2018,4696
+2963,Dhule,Other,Apr,2018,4659
+2964,Dhule,H-4(A) 27mm FIne,Apr,2018,4798
+2965,Dhule,LRA,Apr,2018,4727
+2966,Dhule,N-44,Apr,2018,4701
+2967,Dhule,DCH-32(Unginned),Apr,2018,4524
+2968,Pune,Varaxmi,May,2018,4651
+2969,Pune,Desi,May,2018,4696
+2970,Pune,Other,May,2018,4659
+2971,Pune,H-4(A) 27mm FIne,May,2018,4798
+2972,Pune,LRA,May,2018,4727
+2973,Pune,N-44,May,2018,4701
+2974,Pune,DCH-32(Unginned),May,2018,4524
+2975,Dhule,Varaxmi,May,2018,4651
+2976,Dhule,Desi,May,2018,4696
+2977,Dhule,Other,May,2018,4659
+2978,Dhule,H-4(A) 27mm FIne,May,2018,4798
+2979,Dhule,LRA,May,2018,4727
+2980,Dhule,N-44,May,2018,4701
+2981,Dhule,DCH-32(Unginned),May,2018,4524
+2982,Pune,Varaxmi,Jun,2018,4651
+2983,Pune,Desi,Jun,2018,4696
+2984,Pune,Other,Jun,2018,4659
+2985,Pune,H-4(A) 27mm FIne,Jun,2018,4798
+2986,Pune,LRA,Jun,2018,4727
+2987,Pune,N-44,Jun,2018,4701
+2988,Pune,DCH-32(Unginned),Jun,2018,4524
+2989,Dhule,Varaxmi,Jun,2018,4651
+2990,Dhule,Desi,Jun,2018,4696
+2991,Dhule,Other,Jun,2018,4659
+2992,Dhule,H-4(A) 27mm FIne,Jun,2018,4798
+2993,Dhule,LRA,Jun,2018,4727
+2994,Dhule,N-44,Jun,2018,4701
+2995,Dhule,DCH-32(Unginned),Jun,2018,4524
+2996,Pune,Varaxmi,Jul,2018,4879
+2997,Pune,Desi,Jul,2018,4975
+2998,Pune,Other,Jul,2018,4936
+2999,Pune,H-4(A) 27mm FIne,Jul,2018,4969
+3000,Pune,LRA,Jul,2018,5050
+3001,Pune,N-44,Jul,2018,4987
+3002,Pune,DCH-32(Unginned),Jul,2018,4963
+3003,Dhule,Varaxmi,Jul,2018,4879
+3004,Dhule,Desi,Jul,2018,4975
+3005,Dhule,Other,Jul,2018,4936
+3006,Dhule,H-4(A) 27mm FIne,Jul,2018,4969
+3007,Dhule,LRA,Jul,2018,5050
+3008,Dhule,N-44,Jul,2018,4987
+3009,Dhule,DCH-32(Unginned),Jul,2018,4963
+3010,Pune,Varaxmi,Aug,2018,4651
+3011,Pune,Desi,Aug,2018,4696
+3012,Pune,Other,Aug,2018,4659
+3013,Pune,H-4(A) 27mm FIne,Aug,2018,4798
+3014,Pune,LRA,Aug,2018,4727
+3015,Pune,N-44,Aug,2018,4701
+3016,Pune,DCH-32(Unginned),Aug,2018,4524
+3017,Dhule,Varaxmi,Aug,2018,4651
+3018,Dhule,Desi,Aug,2018,4696
+3019,Dhule,Other,Aug,2018,4659
+3020,Dhule,H-4(A) 27mm FIne,Aug,2018,4798
+3021,Dhule,LRA,Aug,2018,4727
+3022,Dhule,N-44,Aug,2018,4701
+3023,Dhule,DCH-32(Unginned),Aug,2018,4524
+3024,Pune,Varaxmi,Sep,2018,4651
+3025,Pune,Desi,Sep,2018,4696
+3026,Pune,Other,Sep,2018,4659
+3027,Pune,H-4(A) 27mm FIne,Sep,2018,4798
+3028,Pune,LRA,Sep,2018,4727
+3029,Pune,N-44,Sep,2018,4701
+3030,Pune,DCH-32(Unginned),Sep,2018,4524
+3031,Dhule,Varaxmi,Sep,2018,4651
+3032,Dhule,Desi,Sep,2018,4696
+3033,Dhule,Other,Sep,2018,4659
+3034,Dhule,H-4(A) 27mm FIne,Sep,2018,4798
+3035,Dhule,LRA,Sep,2018,4727
+3036,Dhule,N-44,Sep,2018,4701
+3037,Dhule,DCH-32(Unginned),Sep,2018,4524
+3038,Pune,Varaxmi,Oct,2018,4651
+3039,Pune,Desi,Oct,2018,4696
+3040,Pune,Other,Oct,2018,4659
+3041,Pune,H-4(A) 27mm FIne,Oct,2018,4798
+3042,Pune,LRA,Oct,2018,4727
+3043,Pune,N-44,Oct,2018,4701
+3044,Pune,DCH-32(Unginned),Oct,2018,4524
+3045,Dhule,Varaxmi,Oct,2018,4651
+3046,Dhule,Desi,Oct,2018,4696
+3047,Dhule,Other,Oct,2018,4659
+3048,Dhule,H-4(A) 27mm FIne,Oct,2018,4798
+3049,Dhule,LRA,Oct,2018,4727
+3050,Dhule,N-44,Oct,2018,4701
+3051,Dhule,DCH-32(Unginned),Oct,2018,4524
+3052,Pune,Varaxmi,Nov,2018,4364
+3053,Pune,Desi,Nov,2018,4365
+3054,Pune,Other,Nov,2018,4351
+3055,Pune,H-4(A) 27mm FIne,Nov,2018,4365
+3056,Pune,LRA,Nov,2018,4367
+3057,Pune,N-44,Nov,2018,4394
+3058,Pune,DCH-32(Unginned),Nov,2018,4403
+3059,Dhule,Varaxmi,Nov,2018,4364
+3060,Dhule,Desi,Nov,2018,4365
+3061,Dhule,Other,Nov,2018,4351
+3062,Dhule,H-4(A) 27mm FIne,Nov,2018,4365
+3063,Dhule,LRA,Nov,2018,4367
+3064,Dhule,N-44,Nov,2018,4394
+3065,Dhule,DCH-32(Unginned),Nov,2018,4403
+3066,Pune,Varaxmi,Dec,2018,4651
+3067,Pune,Desi,Dec,2018,4696
+3068,Pune,Other,Dec,2018,4659
+3069,Pune,H-4(A) 27mm FIne,Dec,2018,4798
+3070,Pune,LRA,Dec,2018,4727
+3071,Pune,N-44,Dec,2018,4701
+3072,Pune,DCH-32(Unginned),Dec,2018,4524
+3073,Dhule,Varaxmi,Dec,2018,4651
+3074,Dhule,Desi,Dec,2018,4696
+3075,Dhule,Other,Dec,2018,4659
+3076,Dhule,H-4(A) 27mm FIne,Dec,2018,4798
+3077,Dhule,LRA,Dec,2018,4727
+3078,Dhule,N-44,Dec,2018,4701
+3079,Dhule,DCH-32(Unginned),Dec,2018,4524

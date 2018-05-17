@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.akashravi.vriksha.MarketPred">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:alpha=".9"
+        android:background="@drawable/agriculture_asia_autumn_botany_162992">
+
+        <TextView
+            android:id="@+id/info_seller"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="RICE"
+            android:textColor="#ffffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="10dp"
+                android:paddingTop="30dp"
+                android:text="For Growth"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="10dp"
+                android:paddingTop="30dp"
+                android:text="➢	    Rice is a tropical crop that can be grown almost throughout the year.\n\n
+➢   The traditional rice fields are known as paddy fields and require to be flooded with 10-12 cm deep water in the early stages.\n\n
+➢	Techniques Used: Transplantation technique, Japanese Transplantation technique, new SRI technique\n\n
+➢	Temperature: ∼ 24 0C\n\n
+➢	Rainfall: ∼ 150 cm\n\n
+➢	Soil type: Clay/ Loamy\n\n
+➢	A rice crop usually reaches maturity at around 105–150 days after crop establishment.
+"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="FOR RAISING THE YIELD"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ Good quality seed can increase yields by 5-20%.\n\n
+➢   The soil should be in the best physical condition for crop growth and the soil surface is level. Land preparation involves plowing and harrowing to ‘till’ or dig-up, mix and level the soil.\n\n
+➢	Farmers can tailor nutrient management to the specific conditions of their field to increase yields.
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="PEST AND DISEASE CONTROL"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ After harvest, be sure to clean the harvesting equipment to prevent the spread of infected plants.\n\n
+➢   Certified seed is recommended but if you can't get certified seed, use clean seed that does not have any discolored seeds, weed seeds or other rice varieties
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="Disease Types"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="Rice Stripe Virus Disease"
+                android:textColor="#757575"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢	The virus is transmitted in a persistent, circulative-propagative manner mainly by the small brown planthopper.
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="How To Identify"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ Check for discoloration\n\n
+➢	RSVD causes chlorotic to yellowish white stripes, mottling, and necrotic streaks on the leaves.
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="Narrow Brown Spot"
+                android:textColor="#757575"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ Narrow brown spot is caused by the fungus Sphaerulina oryzina and can infect leaves, sheaths, and panicles.\n\n
+➢	It leads to premature death of leaves and leaf sheaths, premature ripening of grains, and in severe cases, lodging of plants.
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="How To Identify"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢	Typical lesions on leaves and upper leaf sheath are light to dark brown, linear, and progress parallel to the vein. They are usually 2−10 mm long and 1−1.5 mm wide.\n\n
+➢	Lesions on the leaves of highly susceptible varieties may enlarge and connect together, forming brown linear necrotic regions.\n\n
+➢	On glumes, lesions are usually shorter but can be wider than those on the leaves. Brown lesions are also found on pedicels.\n\n
+➢	The disease also causes discoloration on the leaf sheath, referred to as “net blotch” because of the netlike pattern of brown and light brown to yellow areas.\n\n
+
+"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="How To Grow Rice"
+                android:textColor="#757575"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ Purchase rice seeds from any gardening or farmers supply store. You may also buy rice seeds from a reputable supply store or seek help from the local agriculture field officer.\n\n
+➢   Gather at least 1 to 2 ounces (28.5 to 56.5 g) of rice seeds to sow. Soak the seeds in water to prep them for planting. Allow them to soak for at least 12 hours but not longer than 36 hours. Remove the seeds from the water afterward.\n\n
+➢   Wait for the rice grains to mature"
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="Harvesting Your Rice"
+                android:textColor="#757575"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginTop="70dp"
+                android:text="➢ Cut the stalks and let them dry. When the rice has turned gold (about 2 weeks or so after draining), they're ready.\n\n
+➢   Cut the stalks just under the heads, where the rice grains are placed.\n\n
+➢   You'll see little pockets at the top of the stalk that are unmistakably the hulls of the rice.\n\n
+➢   Let them dry for 2-3 weeks. With the stalks cut, wrap them in newspaper and keep them in a dry, sunny place for 2-3 weeks.\n\n
+➢   The moisture needs to fully dry out for you to get at the grains cleanly."
+                android:textColor="#757575"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

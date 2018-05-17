@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.location.LocationRequest'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

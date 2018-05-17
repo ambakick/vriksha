@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "853733355891",
+    "firebase_url": "https://agrotracking-3d506.firebaseio.com",
+    "project_id": "agrotracking-3d506",
+    "storage_bucket": "agrotracking-3d506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853733355891:android:c6337ead2aca57dc",
+        "android_client_info": {
+          "package_name": "com.example.akash.agrotracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853733355891-uku35j0p20nh1nqvc9qc76j328d26tsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akash.agrotracking",
+            "certificate_hash": "86f2020ce03edd9e3c4094267aeabd54ad3c1d7e"
+          }
+        },
+        {
+          "client_id": "853733355891-ir52shisf8bfn2luhlrhsn0lm5hqsjqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AlJJCJiRjdkqpJjqCIUIzUHHn5PvGxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853733355891-ir52shisf8bfn2luhlrhsn0lm5hqsjqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">agrotracking</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">agrisih@gmail.com</string>
+    <string name="firebase_password" translatable="false">Sihindia2018</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

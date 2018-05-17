@@ -1,0 +1,229 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.akashravi.vriksha.AccountFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+
+
+
+
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="top|center_vertical|center"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="101dp"
+                    android:src="@drawable/person"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="45dp"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+                <TextView
+                    android:id="@+id/hello_user"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Hey!"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/imageView4"
+                    app:layout_constraintVertical_bias="0.114" />
+
+
+                <Button
+                    android:id="@+id/button10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_margin="10dp"
+                    android:drawableLeft="@mipmap/ic_message_black_24dp"
+                    android:onClick="on_notif"
+                    android:text="\t\t\tNotifications"
+                    android:textSize="17sp"
+                    android:gravity="left|center_vertical"
+                    android:textAllCaps="false"
+                    android:background="#00000000"
+
+                     />
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+
+                <Button
+                    android:id="@+id/todoclk"
+                    android:drawableLeft="@mipmap/ic_today_black_24dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#00000000"
+                    android:gravity="left|center_vertical"
+                    android:onClick="todo"
+                    android:textSize="17sp"
+                    android:text="\t\t\tTodo list"
+                    android:textAllCaps="false"
+                     />
+
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+
+                <Button
+                    android:id="@+id/button9"
+                    android:drawableLeft="@mipmap/ic_subject_black_24dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:gravity="left|center_vertical"
+                    android:layout_marginTop="8dp"
+                    android:textSize="17sp"
+                    android:background="#00000000"
+                    android:text="\t\t\tUpdate KYC"
+                    android:textAllCaps="false"
+                     />
+
+
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+
+                <Button
+                    android:id="@+id/button11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#00000000"
+                    android:drawableLeft="@mipmap/ic_description_black_24dp"
+                    android:gravity="left|center_vertical"
+                    android:onClick="schemes"
+                    android:paddingLeft="35dp"
+                    android:text="\t\t\tSchemes and surveys"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+
+
+
+                <Button
+                    android:id="@+id/community"
+                    android:layout_width="match_parent"
+                    android:drawableLeft="@mipmap/ic_keyboard_tab_black_24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:gravity="left|center_vertical"
+                    android:background="#00000000"
+                    android:textSize="17sp"
+                    android:onClick="community"
+                    android:text="\t\t\tCommunity Forum"
+                    android:textAllCaps="false"
+                    />
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="match_parent"
+                    android:drawableLeft="@mipmap/ic_vpn_key_black_24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#00000000"
+                    android:gravity="left|center_vertical"
+                    android:textSize="17sp"
+                    android:onClick="reset_pw"
+                    android:text="\t\t\tReset Password"
+                    android:textAllCaps="false"
+                     />
+                <View
+                    android:layout_width="325dp"
+                    android:layout_height="1dp"
+                    android:background="#c0c0c0"/>
+
+                <Button
+                    android:id="@+id/logout"
+                    android:layout_width="match_parent"
+                    android:drawableLeft="@mipmap/ic_keyboard_tab_black_24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:paddingLeft="35dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:gravity="left|center_vertical"
+                    android:background="#00000000"
+                    android:textSize="17sp"
+                    android:onClick="log_out"
+                    android:text="\t\t\tLog out"
+                    android:textAllCaps="false"
+                     />
+
+
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>
